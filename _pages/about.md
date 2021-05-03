@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-```xml
+```html
 <p style="text-align:justify; text-justify:inter-ideograph;">
 Hi, I'm Jianan Zhou! I received my B.Eng. in Software Engineering from Northeastern University ([NEU](http://english.neu.edu.cn)) in 2019, and my M.Sc. degree in Artificial Intelligence from Nanyang Technological University ([NTU](https://www.ntu.edu.sg)) in 2021, where I was supervised by [Prof Jie Zhang](https://personal.ntu.edu.sg/zhangj/), and worked as a research intern at [SCALE@NTU](https://www.ntu.edu.sg/scale).
 </p>
