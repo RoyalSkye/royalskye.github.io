@@ -22,16 +22,16 @@ Work experience
 ======
 * \[2020/11-2021/03]: **Research Intern**
   
-  * **Singtel Cognitive and Artificial Intelligence Lab for Enterprises**@NTU, Singapore
+  * **[Singtel Cognitive and Artificial Intelligence Lab for Enterprises](https://www.ntu.edu.sg/scale)**@NTU, Singapore
   
   * Duties included: designed and developed a learning-based method to guide Large Neighborhood Search framework for Vehicle Routing in Airport Ground Handling problems. The framework is able to solve real-world instances with millions of variables and complex constraints within practice time.
   
 * \[2019/08-2019/11]: **Research and Development Intern**
   
-  * **News Break**@Beijing, China
+  * **[News Break](https://www.newsbreak.com/about)**@Beijing, China
   * Duties included: developed the spider system, which provides news services that served in the North American region for the news reading APP - *News Break* - Top3 in the news app rankings in North America; analyzed the bad cases of web page, and improved policy.
 
 * \[2018/06-2018/08]: **Java Web Intern**
-  * **Neusoft Corporation**@Shenyang, China
+  * **[Neusoft Corporation](https://en.wikipedia.org/wiki/Neusoft)**@Shenyang, China
   * Duties included: co-developed a commercial education system utilizing SSM and React frameworks to decouple development of system, along with JQuery-Ajax to implement interactions between front and back-end system.
 
