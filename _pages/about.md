@@ -8,15 +8,21 @@ redirect_from:
   - /about.html
 ---
 
+```xml
+<p style="text-align:justify; text-justify:inter-ideograph;">
+Hi, I'm Jianan Zhou! I received my B.Eng. in Software Engineering from Northeastern University ([NEU](http://english.neu.edu.cn)) in 2019, and my M.Sc. degree in Artificial Intelligence from Nanyang Technological University ([NTU](https://www.ntu.edu.sg)) in 2021, where I was supervised by [Prof Jie Zhang](https://personal.ntu.edu.sg/zhangj/), and worked as a research intern at [SCALE@NTU](https://www.ntu.edu.sg/scale).
+</p>
+```
+
 Hi, I'm Jianan Zhou! I received my B.Eng. in Software Engineering from Northeastern University ([NEU](http://english.neu.edu.cn)) in 2019, and my M.Sc. degree in Artificial Intelligence from Nanyang Technological University ([NTU](https://www.ntu.edu.sg)) in 2021, where I was supervised by [Prof Jie Zhang](https://personal.ntu.edu.sg/zhangj/), and worked as a research intern at [SCALE@NTU](https://www.ntu.edu.sg/scale).
 
 Research
 ======
 My current research mainly focuses on Machine Learning and Optimization, especially exploring [learning to search paradigm](https://arxiv.org/pdf/1811.06128.pdf), and using Deep Reinforcement Learning to solve Combinatorial Optimization Problem, such as Traveling Salesman Problem (TSP) and Vehicle Routing Problem (VRP). I'm also quite interested in the application of AI to solve large-scale instances effectively in the industry.
 
-$\star$ Machine Learning and Optimization
+$\star$ **Machine Learning and Optimization**
 
-$\star$ Reinforcement Learning
+$\star$ **Reinforcement Learning**
 
 News
 ======
