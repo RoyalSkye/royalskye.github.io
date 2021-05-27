@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV in PDF format](https://royalskye.github.io/files/CV_20210503.pdf)
+[CV in PDF format](https://royalskye.github.io/files/CV_20210527.pdf)
 
 Education
 ======
@@ -23,15 +23,14 @@ Work experience
 * \[2020/11-2021/03]: **Research Intern**
   
   * **[Singtel Cognitive and Artificial Intelligence Lab for Enterprises](https://www.ntu.edu.sg/scale)**@NTU, Singapore
+  * Duties included: used graph convolutional network and forward training algorithm to learn a destroy operator, which guides large neighborhood search framework to achieve a better candidate solution in vehicle routing problems. The learned framework is able to outperform conventional LNS heuristics with respect to the solution quality and computational cost.
   
-  * Duties included: designed and developed a learning-based method to guide Large Neighborhood Search framework for Vehicle Routing in Airport Ground Handling problems. The framework is able to solve real-world instances with millions of variables and complex constraints within practice time.
-  
-* \[2019/08-2019/11]: **Research and Development Intern**
+* \[2019/08-2019/11]: **R\&D Intern**
   
   * **[News Break](https://www.newsbreak.com/about)**@Beijing, China
-  * Duties included: developed the spider system, which provides news services that served in the North American region for the news reading APP - *News Break* - Top3 in the news app rankings in North America; analyzed the bad cases of web page, and improved policy.
+  * Duties included: in charge of developing the spider system, analyzing the bad cases of web page and improving the parser policy. The spider system provides news services for the news reading APP (*News Break*) in the North American region; developed docker containers for the spider system to achieve automatic deployment.
 
 * \[2018/06-2018/08]: **Java Web Intern**
   * **[Neusoft Corporation](https://en.wikipedia.org/wiki/Neusoft)**@Shenyang, China
-  * Duties included: co-developed a commercial education system utilizing SSM and React frameworks to decouple development of system, along with JQuery-Ajax to implement interactions between front and back-end system.
+  * Duties included: co-developed a commercial education system utilizing SSM and React frameworks to decouple development of system, along with JQuery-Ajax to implement interactions between front and back-end system; used Tomcat, Nginx and Redis to deploy the system on servers with data cache, load balancing, and the separation of static and dynamic resources.
 

@@ -24,7 +24,7 @@ News
 - \[2021-03]: One first-authored paper is submitted to [IEEE Transactions On SMC: Systems](https://www.ieeesmc.org/publications/transactions-on-smc-systems).
 - \[2020-11]: Start my research intern at [SCALE@NTU](https://www.ntu.edu.sg/scale), supervised by [Prof Jie Zhang](https://personal.ntu.edu.sg/zhangj/) and his Ph.D. student Yaoxin Wu.
 - \[2020-08]: Awarded *Certificate of Excellence* with a partial scholarship of S$2500 by [Prof Adams Kong](https://personal.ntu.edu.sg/AdamsKong/).
-- \[2020-01]: Start my Master study at [SCSE NTU](https://www.ntu.edu.sg/scse), majored in [Artificial Intelligence](https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-artificial-intelligence).
+- \[2020-01]: Start my Master study at [SCSE NTU](https://www.ntu.edu.sg/scse), majored in Artificial Intelligence.
 - \[2019-06]: Graduate from [Northeastern University](http://english.neu.edu.cn) with three times University Scholarship.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=a&t=tt&d=FoksnRn7TGvAb2s0FiP9G1EDQcPfF_pvdm4EdiVzTZA&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
