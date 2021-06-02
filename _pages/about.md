@@ -12,11 +12,11 @@ Hi, I'm Jianan Zhou! I received my B.Eng. in Software Engineering from Northeast
 
 Research
 ======
-My current research mainly focuses on Machine Learning and Optimization, especially exploring [learning to search paradigm](https://arxiv.org/pdf/1811.06128.pdf), and using Deep Reinforcement Learning to solve Combinatorial Optimization Problem, such as Traveling Salesman Problem (TSP) and Vehicle Routing Problem (VRP). I'm also quite interested in the application of AI to solve large-scale instances effectively in the industry.
+My previous research mainly focuses on Machine Learning and Optimization, especially exploring [learning to search paradigm](https://arxiv.org/pdf/1811.06128.pdf), and using Deep Reinforcement Learning to solve Combinatorial Optimization Problem, such as Traveling Salesman Problem (TSP) and Vehicle Routing Problem (VRP). It is a hot topic for both AI and Operations Research, quite interesting yet challenging. 
 
-$\star$ **Machine Learning and Optimization**
+- **Artificial Intelligence**: Deep Learning, Deep Reinforcement Learning
 
-$\star$ **Reinforcement Learning**
+- **Machine Learning and Optimization:** Neural Combinatorial Optimization
 
 News
 ======

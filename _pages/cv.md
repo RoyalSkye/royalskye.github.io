@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-[CV in PDF format](https://royalskye.github.io/files/CV_20210527.pdf)
+[CV in PDF format](https://royalskye.github.io/files/CV_20210602.pdf)
 
 Education
 ======
 * B.Eng. in *Software Engineering*, Northeastern University, 2019
-  * GPA: 3.57/5 (Rank: 39/256 Top 15%)
+  * GPA: 3.57/5 &nbsp;&nbsp;&nbsp;&nbsp; Rank: $39^{th}$/256
 * M.Sc. in *Artificial Intelligence*, School of Computer Science and Engineering, Nanyang Technological University, 2021
-  * GPA: 4.94/5 (First Class Honours)
+  * GPA: 4.95/5 &nbsp;&nbsp;&nbsp;&nbsp; Rank: $1^{st}$/51
 
 Work experience
 ======
@@ -25,7 +25,7 @@ Work experience
   * **[Singtel Cognitive and Artificial Intelligence Lab for Enterprises](https://www.ntu.edu.sg/scale)**@NTU, Singapore
   * Duties included: used graph convolutional network and forward training algorithm to learn a destroy operator, which guides large neighborhood search framework to achieve a better candidate solution in vehicle routing problems. The learned framework is able to outperform conventional LNS heuristics with respect to the solution quality and computational cost.
   
-* \[2019/08-2019/11]: **R\&D Intern**
+* \[2019/08-2019/11]: **R&D Intern**
   
   * **[News Break](https://www.newsbreak.com/about)**@Beijing, China
   * Duties included: in charge of developing the spider system, analyzing the bad cases of web page and improving the parser policy. The spider system provides news services for the news reading APP (*News Break*) in the North American region; developed docker containers for the spider system to achieve automatic deployment.
