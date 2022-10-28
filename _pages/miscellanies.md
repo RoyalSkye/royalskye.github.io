@@ -9,7 +9,7 @@ author_profile: true
 
 Journal Reviewer: IEEE TNNLS; Neurocomputing;
 
-Workshop Reviewer: [ML4PS](https://ml4physicalsciences.github.io/2022/) (NeurIPS 22');
+Workshop Reviewer: [ML4PS](https://ml4physicalsciences.github.io/2022/), [SyntheticData4ML](https://www.syntheticdata4ml.vanderschaar-lab.com) (NeurIPS'22);
 
 ## Honors and Awards
 

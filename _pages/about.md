@@ -15,9 +15,9 @@ Research
 
 My research mainly focuses on Machine Learning and Optimization, especially exploring the [learning to optimize paradigm](https://arxiv.org/pdf/1811.06128.pdf).
 
-* Neural Combinatorial Optimization
+* Neural Combinatorial Optimization (2020 - Present)
 
-- Adversarial Machine Learning
+- Adversarial Machine Learning (2021 - 2022)
 
 News
 ======
