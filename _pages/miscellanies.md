@@ -7,15 +7,17 @@ author_profile: true
 
 ## Academic Service
 
-Journal Reviewer: IEEE TNNLS; Neurocomputing;
+Conference Reviewer: ICLR'23;
 
 Workshop Reviewer: [ML4PS](https://ml4physicalsciences.github.io/2022/), [SyntheticData4ML](https://www.syntheticdata4ml.vanderschaar-lab.com) (NeurIPS'22);
 
+Total: 5
+
 ## Honors and Awards
 
-* NTU Research Scholarship, 2022-2026
+* NTU Research Scholarship, 2022 - 2026
 * NTU Certificate of Excellence, 2020
-* NEU University Scholarship, 2017-2019
+* NEU University Scholarship, 2017 - 2019
 
 ## Teaching
 

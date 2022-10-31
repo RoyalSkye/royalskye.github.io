@@ -22,10 +22,10 @@ My research mainly focuses on Machine Learning and Optimization, especially expl
 News
 ======
 
-- \[2022-01]: Start Ph.D. in SCSE with *NTU Research Scholarship*, supervised by Prof. Jie Zhang.
-- \[2021-09]: Join HKBU TMLR Group as a research assistant, supervised by Prof. Bo Han, Dr. Jingfeng Zhang and Jianing Zhu. 
+- \[2022-01]: Start Ph.D. in SCSE with *NTU Research Scholarship*.
+- \[2021-09]: Join HKBU TMLR Group as a research assistant.
 - \[2021-06]: Graduate from MSAI program, SCSE@NTU.
-- \[2020-11]: Start research intern in SCALE@NTU, supervised by Prof. Jie Zhang and Dr. Yaoxin Wu.
+- \[2020-11]: Start research intern in SCALE@NTU.
 - \[2020-08]: Awarded *Certificate of Excellence* with a partial scholarship.
 - \[2020-01]: Start M.Sc. in SCSE@NTU, majoring in Artificial Intelligence.
 - \[2019-06]: Graduate from Northeastern University with three times *University Scholarship*.
