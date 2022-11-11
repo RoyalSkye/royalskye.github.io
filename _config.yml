@@ -86,9 +86,9 @@ author:
   location         : "Singapore"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=9T58m-EAAAAJ"
   email            : "JIANAN004@e.ntu.edu.sg"
-  researchgate     : "https://www.researchgate.net/profile/Jianan_Zhou5"
+  researchgate     : # "https://www.researchgate.net/profile/Jianan_Zhou5"
   uri              :
   bitbucket        :
   codepen          :

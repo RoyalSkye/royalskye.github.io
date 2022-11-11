@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+{% endif %} -->
 
 ## Published
 
@@ -15,7 +15,7 @@ author_profile: true
 
 * **Adversarial Training with Complementary Labels: On the Benefit of Gradually Informative Attacks** \
    <u>Jianan Zhou</u>\*, Jianing Zhu\*, Jingfeng Zhang, Tongliang Liu, Gang Niu, Bo Han, Masashi Sugiyama \
-   *36th Conference on Neural Information Processing Systems (NeurIPS 2022)* \
+   *36th Conference on Neural Information Processing Systems (NeurIPS 2022 <font color='red'><b>Spotlight</b></font>)* \
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://openreview.net/forum?id=s7SukMH7ie9)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/RoyalSkye/ATCL)&nbsp;&nbsp;&nbsp;&nbsp;[![PDF](https://img.shields.io/badge/NeurIPS-Page-orange.svg)](https://neurips.cc/virtual/2022/poster/55084)
 
 ## Perished

@@ -11,7 +11,7 @@ Conference Reviewer: ICLR'23;
 
 Workshop Reviewer: [ML4PS](https://ml4physicalsciences.github.io/2022/), [SyntheticData4ML](https://www.syntheticdata4ml.vanderschaar-lab.com) (NeurIPS'22);
 
-Total: 5
+<!-- Total: 5 -->
 
 ## Honors and Awards
 
