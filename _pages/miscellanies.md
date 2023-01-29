@@ -9,7 +9,7 @@ author_profile: true
 
 Conference Reviewer: ICLR'23;
 
-Workshop Reviewer: [ML4PS](https://ml4physicalsciences.github.io/2022/), [SyntheticData4ML](https://www.syntheticdata4ml.vanderschaar-lab.com) (NeurIPS'22);
+Workshop Reviewer: [ML4PS](https://ml4physicalsciences.github.io/2022/), [SyntheticData4ML](https://www.syntheticdata4ml.vanderschaar-lab.com) (NeurIPS'22); [ME-FoMo](https://sites.google.com/view/me-fomo2023) (ICLR'23);
 
 <!-- Total: 5 -->
 
@@ -21,7 +21,10 @@ Workshop Reviewer: [ML4PS](https://ml4physicalsciences.github.io/2022/), [Synthe
 
 ## Teaching
 
-* TBC
+AY2022-23 Sem2:
+
+* SC1007/CE1107/CZ1107 - Data Structures & Algorithm
+* SC3010/CE4062/CZ4062 - Computer Security
 
 ## Experience - [CV](https://royalskye.github.io/files/CV_20210602.pdf)
 

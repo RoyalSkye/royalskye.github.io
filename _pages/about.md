@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm Jianan Zhou, a Ph.D. student in School of Computer Science and Engineering at Nanyang Technological University ([CIL](https://www.ntu.edu.sg/cil), [SCSE@NTU](https://www.ntu.edu.sg/scse)), supervised by [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/). Previously, I received B.Eng. in Software Engineering from Northeastern University (NEU) in 2019, and M.Sc. in Artificial Intelligence from NTU in 2021. After that, I was a research assistant at HKBU TMLR group, working with [Prof. Bo Han](https://bhanml.github.io/) on adversarial machine learning with weak supervision.
+I'm Jianan Zhou, a second-year Ph.D. student in School of Computer Science and Engineering at Nanyang Technological University ([CIL](https://www.ntu.edu.sg/cil), [SCSE@NTU](https://www.ntu.edu.sg/scse)), supervised by [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/). Previously, I received B.Eng. in Software Engineering from Northeastern University (NEU) in 2019, and M.Sc. in Artificial Intelligence from NTU in 2021. After that, I was a research assistant at HKBU TMLR group, working with [Prof. Bo Han](https://bhanml.github.io/) on adversarial machine learning with weak supervision.
 
 Research
 ======
 
-My research mainly focuses on Machine Learning and Optimization, especially exploring the [learning to optimize paradigm](https://arxiv.org/pdf/1811.06128.pdf).
+My research mainly focuses on Machine Learning for Optimization, especially exploring the [learning to optimize paradigm](https://arxiv.org/pdf/1811.06128.pdf).
 
 * Neural Combinatorial Optimization (2020 - Present)
 
