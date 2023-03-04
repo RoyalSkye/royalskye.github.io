@@ -7,11 +7,13 @@ author_profile: true
 
 ## Academic Service
 
+Organizing Committee: ICLR'23 [Tiny Papers Track](https://iclr.cc/Conferences/2023/CallForTinyPapers)
+
 Conference Reviewer: ICLR'23;
 
-Workshop Reviewer: [ML4PS](https://ml4physicalsciences.github.io/2022/), [SyntheticData4ML](https://www.syntheticdata4ml.vanderschaar-lab.com) (NeurIPS'22); [ME-FoMo](https://sites.google.com/view/me-fomo2023) (ICLR'23);
+Workshop Reviewer: [ML4PS](https://ml4physicalsciences.github.io/2022/), [SyntheticData4ML](https://www.syntheticdata4ml.vanderschaar-lab.com) (NeurIPS'22); [ME-FoMo](https://sites.google.com/view/me-fomo2023), [AfricaNLP](https://sites.google.com/view/africanlp2023/home) (ICLR'23);
 
-<!-- Total: 5 -->
+<!-- Total: 10 -->
 
 ## Honors and Awards
 

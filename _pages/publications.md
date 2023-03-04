@@ -15,23 +15,22 @@ author_profile: true
 
 * **Neural Airport Ground Handling** \
    Yaoxin Wu\*, <u>Jianan Zhou</u>\*, Yunwen Xia, Xianli Zhang, Zhiguang Cao, Jie Zhang \
-   <!-- *IEEE Transactions on Intelligent Transportation Systems (TITS), 2023* \ -->
-   TBA \
-   [![PDF](https://img.shields.io/badge/Download-TBA-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/RoyalSkye/attention-agh)
+   *IEEE Transactions on Intelligent Transportation Systems (TITS), 2023* \
+   [![PDF](https://img.shields.io/badge/Download-TBA-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/RoyalSkye/AGH)
+   
+* **Learning Large Neighborhood Search for Vehicle Routing in Airport Ground Handling** \
+   <u>Jianan Zhou</u>, Yaoxin Wu, Zhiguang Cao, Wen Song, Jie Zhang, Zhenghua Chen \
+   *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023* \
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/abs/2302.13797)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/RoyalSkye/AGH)&nbsp;&nbsp;&nbsp;&nbsp;[![NeurIPS](https://img.shields.io/badge/NeurIPS-PDF-brightgreen.svg)](https://openreview.net/forum?id=IaM7U4J-w3c)
 
 * **Adversarial Training with Complementary Labels: On the Benefit of Gradually Informative Attacks** \
    <u>Jianan Zhou</u>\*, Jianing Zhu\*, Jingfeng Zhang, Tongliang Liu, Gang Niu, Bo Han, Masashi Sugiyama \
-   *36th Conference on Neural Information Processing Systems (NeurIPS 2022)* \
+   *36th Conference on Neural Information Processing Systems (NeurIPS), 2022* \
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://openreview.net/forum?id=s7SukMH7ie9)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/RoyalSkye/ATCL)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/NeurIPS-Poster-yellow.svg)](https://neurips.cc/virtual/2022/poster/55084)&nbsp;&nbsp;&nbsp;&nbsp;[![Spotlight](https://img.shields.io/badge/NeurIPS-Spotlight-red.svg)](https://nips.cc/virtual/2022/spotlight/65260)
 
 ## Perished
 
-* **Learning Large Neighborhood Search for Vehicle Routing in Airport Ground Handling** \
-   <u>Jianan Zhou</u>, Yaoxin Wu, Zhiguang Cao, Wen Song, Jie Zhang, Zhenghua Chen \
-   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/NeurIPS-PDF-brightgreen.svg)](https://openreview.net/forum?id=IaM7U4J-w3c)
-
 * **Double-Blind** \
    <u>Jianan Zhou</u>, Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang \
    [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
-   
-   
+
