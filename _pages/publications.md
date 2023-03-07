@@ -16,12 +16,12 @@ author_profile: true
 * **Neural Airport Ground Handling** \
    Yaoxin Wu\*, <u>Jianan Zhou</u>\*, Yunwen Xia, Xianli Zhang, Zhiguang Cao, Jie Zhang \
    *IEEE Transactions on Intelligent Transportation Systems (TITS), 2023* \
-   [![PDF](https://img.shields.io/badge/Download-TBA-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/RoyalSkye/AGH)
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/abs/2303.02442)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/RoyalSkye/AGH)&nbsp;&nbsp;&nbsp;&nbsp;[![IEEE](https://img.shields.io/badge/IEEE-TITS-lightgrey.svg)](https://doi.org/10.1109/TITS.2023.3253552)
    
 * **Learning Large Neighborhood Search for Vehicle Routing in Airport Ground Handling** \
    <u>Jianan Zhou</u>, Yaoxin Wu, Zhiguang Cao, Wen Song, Jie Zhang, Zhenghua Chen \
    *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023* \
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/abs/2302.13797)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/RoyalSkye/AGH)&nbsp;&nbsp;&nbsp;&nbsp;[![NeurIPS](https://img.shields.io/badge/NeurIPS-PDF-brightgreen.svg)](https://openreview.net/forum?id=IaM7U4J-w3c)
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/abs/2302.13797)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/RoyalSkye/AGH)&nbsp;&nbsp;&nbsp;&nbsp;[![NeurIPS](https://img.shields.io/badge/NeurIPS-PDF-brightgreen.svg)](https://openreview.net/forum?id=IaM7U4J-w3c)&nbsp;&nbsp;&nbsp;&nbsp;[![IEEE](https://img.shields.io/badge/IEEE-TKDE-lightgrey.svg)](https://doi.org/10.1109/TKDE.2023.3249799)
 
 * **Adversarial Training with Complementary Labels: On the Benefit of Gradually Informative Attacks** \
    <u>Jianan Zhou</u>\*, Jianing Zhu\*, Jingfeng Zhang, Tongliang Liu, Gang Niu, Bo Han, Masashi Sugiyama \

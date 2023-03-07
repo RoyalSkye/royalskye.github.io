@@ -7,7 +7,7 @@ author_profile: true
 
 ## Academic Service
 
-Organizing Committee: ICLR'23 [Tiny Papers Track](https://iclr.cc/Conferences/2023/CallForTinyPapers)
+Organizing Committee: [TinyPapers Track](https://iclr.cc/Conferences/2023/CallForTinyPapers) (ICLR'23)
 
 Conference Reviewer: ICLR'23;
 
