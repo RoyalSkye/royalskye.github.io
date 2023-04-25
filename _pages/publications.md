@@ -13,6 +13,11 @@ author_profile: true
 
 > \* Equal Contribution.
 
+* **Towards Omni-generalizable Neural Methods for Vehicle Routing Problems** \
+   <u>Jianan Zhou</u>, Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang \
+   *40th International Conference on Machine Learning (ICML), 2023* \
+   [![PDF](https://img.shields.io/badge/Download-TBA-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-TBA-blue.svg)]()
+
 * **Neural Airport Ground Handling** \
    Yaoxin Wu\*, <u>Jianan Zhou</u>\*, Yunwen Xia, Xianli Zhang, Zhiguang Cao, Jie Zhang \
    *IEEE Transactions on Intelligent Transportation Systems (TITS), 2023* \
@@ -30,7 +35,5 @@ author_profile: true
 
 ## Perished
 
-* **Double-Blind** \
-   <u>Jianan Zhou</u>, Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang \
-   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
+* TBA
 
