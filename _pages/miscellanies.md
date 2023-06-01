@@ -28,6 +28,10 @@ AY2022-23 Sem2:
 * SC1007/CE1107/CZ1107 - Data Structures & Algorithm
 * SC3010/CE4062/CZ4062 - Computer Security
 
+AY2023-24 Sem1:
+
+* SC3010/CE4062/CZ4062 - Computer Security
+
 ## Experience - [CV](https://royalskye.github.io/files/CV_20210602.pdf)
 
 * Research Assistant, [TMLR](https://bhanml.github.io/)@HKBU, HK SAR, China, Sep 2021 - Dec 2021

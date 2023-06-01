@@ -16,7 +16,7 @@ author_profile: true
 * **Towards Omni-generalizable Neural Methods for Vehicle Routing Problems** \
    <u>Jianan Zhou</u>, Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang \
    *40th International Conference on Machine Learning (ICML), 2023* \
-   [![PDF](https://img.shields.io/badge/Download-TBA-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-TBA-blue.svg)]()
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://openreview.net/pdf?id=PlFBOnVOFg)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/RoyalSkye/Omni-VRP)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/ICML-Poster-yellow.svg)](https://icml.cc/virtual/2023/poster/25267)
 
 * **Neural Airport Ground Handling** \
    Yaoxin Wu\*, <u>Jianan Zhou</u>\*, Yunwen Xia, Xianli Zhang, Zhiguang Cao, Jie Zhang \
@@ -26,7 +26,7 @@ author_profile: true
 * **Learning Large Neighborhood Search for Vehicle Routing in Airport Ground Handling** \
    <u>Jianan Zhou</u>, Yaoxin Wu, Zhiguang Cao, Wen Song, Jie Zhang, Zhenghua Chen \
    *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023* \
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/abs/2302.13797)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/RoyalSkye/AGH)&nbsp;&nbsp;&nbsp;&nbsp;[![NeurIPS](https://img.shields.io/badge/NeurIPS-PDF-brightgreen.svg)](https://openreview.net/forum?id=IaM7U4J-w3c)&nbsp;&nbsp;&nbsp;&nbsp;[![IEEE](https://img.shields.io/badge/IEEE-TKDE-lightgrey.svg)](https://doi.org/10.1109/TKDE.2023.3249799)
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/abs/2302.13797)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/RoyalSkye/AGH)&nbsp;&nbsp;&nbsp;&nbsp;[![IEEE](https://img.shields.io/badge/IEEE-TKDE-lightgrey.svg)](https://doi.org/10.1109/TKDE.2023.3249799)
 
 * **Adversarial Training with Complementary Labels: On the Benefit of Gradually Informative Attacks** \
    <u>Jianan Zhou</u>\*, Jianing Zhu\*, Jingfeng Zhang, Tongliang Liu, Gang Niu, Bo Han, Masashi Sugiyama \
@@ -35,5 +35,7 @@ author_profile: true
 
 ## Perished
 
-* TBA
+* **Double-Blind** \
+   <u>Jianan Zhou</u>, Zhiguang Cao, Yaoxin Wu, Wen Song, Jie Zhang \
+   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
 
