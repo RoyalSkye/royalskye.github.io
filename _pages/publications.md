@@ -16,7 +16,7 @@ author_profile: true
 * **Towards Omni-generalizable Neural Methods for Vehicle Routing Problems** \
    <u>Jianan Zhou</u>, Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang \
    *40th International Conference on Machine Learning (ICML), 2023* \
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://openreview.net/pdf?id=PlFBOnVOFg)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/RoyalSkye/Omni-VRP)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/ICML-Poster-yellow.svg)](https://icml.cc/virtual/2023/poster/25267)
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://openreview.net/forum?id=PlFBOnVOFg)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/RoyalSkye/Omni-VRP)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/ICML-Poster-yellow.svg)](https://icml.cc/virtual/2023/poster/25267)
 
 * **Neural Airport Ground Handling** \
    Yaoxin Wu\*, <u>Jianan Zhou</u>\*, Yunwen Xia, Xianli Zhang, Zhiguang Cao, Jie Zhang \
