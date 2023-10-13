@@ -9,13 +9,15 @@ author_profile: true
 
 Area Chair: 1st TinyPapers Track (ICLR'23);
 
-Conference Reviewer: ICLR'23; NeurIPS'23;
+Conference Reviewer: ICLR'23-24; NeurIPS'23;
 
 Journal Reviewer: TNNLS;
 
-Total Reviews: 22
+Student Volunteer: RecSys'23 @ Singapore;
 
-<!-- Workshop Reviewer: [ML4PS](https://ml4physicalsciences.github.io/2022/), [SyntheticData4ML](https://www.syntheticdata4ml.vanderschaar-lab.com) (NeurIPS'22); [ME-FoMo](https://sites.google.com/view/me-fomo2023), [AfricaNLP](https://sites.google.com/view/africanlp2023/home) (ICLR'23); [SynS & ML](https://syns-ml.github.io/2023) (ICML'23); -->
+Total Reviews: 34
+
+<!-- Workshop Reviewer: [ML4PS](https://ml4physicalsciences.github.io/2022), [SyntheticData4ML](https://www.syntheticdata4ml.vanderschaar-lab.com) (NeurIPS'22); [ME-FoMo](https://sites.google.com/view/me-fomo2023), [AfricaNLP](https://sites.google.com/view/africanlp2023) (ICLR'23); [SynS & ML](https://syns-ml.github.io/2023) (ICML'23); [ML4PS](https://ml4physicalsciences.github.io/2023), [SyntheticData4ML](https://www.syntheticdata4ml.vanderschaar-lab.com), [R0-FoMo](https://sites.google.com/view/r0-fomo) (NeurIPS'23); -->
 
 ## Honors and Awards
 
@@ -23,7 +25,7 @@ Total Reviews: 22
 * NTU Certificate of Excellence, 2020
 * NEU University Scholarship, 2017 - 2019
 
-## Teaching
+## Teaching (TA)
 
 AY2022-23 Sem2:
 
@@ -31,6 +33,8 @@ AY2022-23 Sem2:
 * SC3010/CE4062/CZ4062 - Computer Security
 
 AY2023-24 Sem1:
+
+* SC2002/CE2002/CZ2002 - Object Oriented Design & Programming
 
 * SC3010/CE4062/CZ4062 - Computer Security
 

@@ -36,6 +36,6 @@ author_profile: true
 ## Perished
 
 * **Double-Blind** \
-   <u>Jianan Zhou</u>, Zhiguang Cao, Yaoxin Wu, Wen Song, Jie Zhang \
+   <u>Jianan Zhou</u>, Yaoxin Wu, Zhiguang Cao, Wen Song, Jie Zhang \
    [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
 
