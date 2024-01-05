@@ -7,19 +7,16 @@ author_profile: true
 
 ## Academic Service
 
-Area Chair: 1st TinyPapers Track (ICLR'23);
+* Area Chair: TinyPapers Track (ICLR'23);
 
-Conference Reviewer: NeurIPS'23 **(TOP)**; ICLR'23-24; CVPR'24;
+* Conference Reviewer: NeurIPS'23 (Top 10%); ICLR'23-24; ICML'24; CVPR'24; IJCAI'24;
 
-Journal Reviewer: TNNLS;
+* Journal Reviewer: TNNLS;
+* Student Volunteer: RecSys'23 @ Singapore;
 
-Workshop Reviewer: [ML4PS](https://ml4physicalsciences.github.io/2022), [SyntheticData4ML](https://www.syntheticdata4ml.vanderschaar-lab.com) (NeurIPS'22); [ME-FoMo](https://sites.google.com/view/me-fomo2023), [AfricaNLP](https://sites.google.com/view/africanlp2023) (ICLR'23); [SynS & ML](https://syns-ml.github.io/2023) (ICML'23); [ML4PS](https://ml4physicalsciences.github.io/2023), [SyntheticData4ML](https://www.syntheticdata4ml.vanderschaar-lab.com), [R0-FoMo](https://sites.google.com/view/r0-fomo) (NeurIPS'23);
+<!-- Workshop Reviewer: [ML4PS](https://ml4physicalsciences.github.io/2022), [SyntheticData4ML](https://www.syntheticdata4ml.vanderschaar-lab.com) (NeurIPS'22); [ME-FoMo](https://sites.google.com/view/me-fomo2023), [AfricaNLP](https://sites.google.com/view/africanlp2023) (ICLR'23); [SynS & ML](https://syns-ml.github.io/2023) (ICML'23); [ML4PS](https://ml4physicalsciences.github.io/2023), [SyntheticData4ML](https://www.syntheticdata4ml.vanderschaar-lab.com), [R0-FoMo](https://sites.google.com/view/r0-fomo) (NeurIPS'23); [ME-FoMo](https://sites.google.com/view/me-fomo2024) (ICLR'24); -->
 
-Student Volunteer: RecSys'23 @ Singapore;
-
-Total Reviews: 34
-
-<!--  -->
+Total Reviews: 38
 
 ## Honors and Awards
 
