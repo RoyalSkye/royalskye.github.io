@@ -42,3 +42,7 @@ author_profile: true
 * **Double-Blind** \
    Shaodi Feng, Yaoxin Wu, <u>Jianan Zhou</u>, Cong Zhang, Zhiguang Cao, Kuan-Wen Chen, Jayavelu Senthilnath, Zhuoyi Lin \
    [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
+
+* **Double-Blind** \
+   <u>Jianan Zhou</u>, Zhiguang Cao, Yaoxin Wu, Wen Song, Yining Ma, Jie Zhang, Xu Chi \
+   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()

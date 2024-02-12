@@ -22,6 +22,7 @@ My research mainly focuses on Machine Learning for Optimization, especially expl
 News
 ======
 
+- \[2023-11]: Selected as Outstanding Reviewer for NeurIPS 2023.
 - \[2023-07]: Pass Ph.D. Qualifying Examination.
 - \[2022-01]: Start Ph.D. in SCSE with *NTU Research Scholarship*.
 - \[2021-09]: Join HKBU TMLR Group as a research assistant.
