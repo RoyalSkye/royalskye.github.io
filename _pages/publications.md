@@ -16,6 +16,7 @@ author_profile: true
 
 * **MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts** \
   <u>Jianan Zhou</u>, Zhiguang Cao, Yaoxin Wu, Wen Song, Yining Ma, Jie Zhang, Xu Chi \
+  *41st International Conference on Machine Learning (ICML), 2024* \
   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://openreview.net/forum?id=lsQnneYa8p)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/RoyalSkye/Routing-MVMoE)
 
 * **Towards Omni-generalizable Neural Methods for Vehicle Routing Problems** \
