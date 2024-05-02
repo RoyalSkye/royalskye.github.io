@@ -12,6 +12,11 @@ author_profile: true
 ## Published
 
 > \* Equal Contribution.
+> 
+
+* **MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts** \
+  <u>Jianan Zhou</u>, Zhiguang Cao, Yaoxin Wu, Wen Song, Yining Ma, Jie Zhang, Xu Chi \
+  [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://openreview.net/forum?id=lsQnneYa8p)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/RoyalSkye/Routing-MVMoE)
 
 * **Towards Omni-generalizable Neural Methods for Vehicle Routing Problems** \
    <u>Jianan Zhou</u>, Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang \
@@ -38,11 +43,6 @@ author_profile: true
 * **Double-Blind** \
    <u>Jianan Zhou</u>, Yaoxin Wu, Zhiguang Cao, Wen Song, Jie Zhang \
    [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
-
 * **Double-Blind** \
    Shaodi Feng, Yaoxin Wu, <u>Jianan Zhou</u>, Cong Zhang, Zhiguang Cao, Kuan-Wen Chen, Jayavelu Senthilnath, Zhuoyi Lin \
-   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
-
-* **Double-Blind** \
-   <u>Jianan Zhou</u>, Zhiguang Cao, Yaoxin Wu, Wen Song, Yining Ma, Jie Zhang, Xu Chi \
    [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
