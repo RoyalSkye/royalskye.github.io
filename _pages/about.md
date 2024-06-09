@@ -17,8 +17,7 @@ My research mainly focuses on Machine Learning for Optimization, especially expl
 
 * Neural Combinatorial Optimization (2020 - Present)
 * Vehicle Routing Problem (2020 - Present)
-
-- Foundation Model for Combinatorial Optimization (2024 - Present)
+* Foundation Model for Combinatorial Optimization (2024 - Present)
 
 News
 ======
