@@ -16,8 +16,9 @@ Research
 My research mainly focuses on Machine Learning for Optimization, especially exploring the [learning to optimize paradigm](https://arxiv.org/pdf/1811.06128.pdf).
 
 * Neural Combinatorial Optimization (2020 - Present)
+* Vehicle Routing Problem (2020 - Present)
 
-- Adversarial Machine Learning (2021 - 2022)
+- Foundation Model for Combinatorial Optimization (2024 - Present)
 
 News
 ======

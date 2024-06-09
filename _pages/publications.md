@@ -52,3 +52,7 @@ author_profile: true
 * **Double-Blind** \
    Jieyi Bi, Yining Ma, <u>Jianan Zhou</u>, Wen Song, Zhiguang Cao, Yaoxin Wu, Jie Zhang \
    [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
+
+* **Double-Blind** \
+   Federico Berto\*, Chuanbo Hua\*, Junyoung Park\*, Laurin Luttmann\*, Yining Ma, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, <u>Jianan Zhou</u>, Jieyi Bi, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park \
+   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
