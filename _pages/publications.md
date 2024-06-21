@@ -11,7 +11,7 @@ author_profile: true
 
 ## Published
 
-> \* Equal Contribution. $\dagger$ corresponding author
+> \* Equal Contribution; $\dagger$ Corresponding Author.
 > 
 
 * **MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts** \
