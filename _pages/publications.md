@@ -41,12 +41,12 @@ author_profile: true
 
 ## Perished
 
-* **Collaboration! Towards Robust Neural Methods for Routing Problems** \
+* **Double-Blind** \
    <u>Jianan Zhou</u>, Yaoxin Wu, Zhiguang Cao, Wen Song, Jie Zhang, Zhiqi Shen \
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://openreview.net/pdf?id=zEOnlJaRKp)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
 
 * **Double-Blind** \
-   Shaodi Feng, Yaoxin Wu, <u>Jianan Zhou</u>, Cong Zhang, Zhiguang Cao, Jie Zhang, Kuan-Wen Chen, Jayavelu Senthilnath, Zhuoyi Lin \
+   Shaodi Feng, <u>Jianan Zhou</u>, Yaoxin Wu, Cong Zhang, Zhiguang Cao, Kuan-Wen Chen, Jayavelu Senthilnath, Zhuoyi Lin \
    [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
 
 * **Double-Blind** \
