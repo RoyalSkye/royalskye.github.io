@@ -17,12 +17,12 @@ author_profile: true
 * **Learning to Handle Complex Constraints for Vehicle Routing Problems** \
    Jieyi Bi, Yining Ma, <u>Jianan Zhou</u>, Wen Song, Zhiguang Cao, Yaoxin Wu, Jie Zhang \
    *38th Conference on Neural Information Processing Systems (NeurIPS), 2024* \
-   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
+   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/NeurIPS-Poster-yellow.svg)](https://nips.cc/virtual/2024/poster/95638)
 
 * **Collaboration! Towards Robust Neural Methods for Routing Problems** \
    <u>Jianan Zhou</u>, Yaoxin Wu, Zhiguang Cao, Wen Song, Jie Zhang, Zhiqi Shen \
    *38th Conference on Neural Information Processing Systems (NeurIPS), 2024* \
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://openreview.net/pdf?id=zEOnlJaRKp)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://openreview.net/pdf?id=zEOnlJaRKp)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/NeurIPS-Poster-yellow.svg)](https://nips.cc/virtual/2024/poster/94681)
 
 * **MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts** \
   <u>Jianan Zhou</u>, Zhiguang Cao, Yaoxin Wu, Wen Song, Yining Ma, Jie Zhang, Xu Chi \
@@ -50,6 +50,14 @@ author_profile: true
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2211.00269)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/RoyalSkye/ATCL)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/NeurIPS-Poster-yellow.svg)](https://neurips.cc/virtual/2022/poster/55084)&nbsp;&nbsp;&nbsp;&nbsp;[![Spotlight](https://img.shields.io/badge/NeurIPS-Spotlight-red.svg)](https://nips.cc/virtual/2022/spotlight/65260)
 
 ## Under Review
+
+* **Double-Blind** \
+   Ziwei Huang, <u>Jianan Zhou</u>, Zhiguang Cao, Yixin Xu \
+   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
+
+* **Double-Blind** \
+   Yong Liang Goh, Yining Ma, <u>Jianan Zhou</u>, Zhiguang Cao, Mohammed Haroon Dupty, Wee Sun Lee \
+   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
 
 * **Double-Blind** \
    Shaodi Feng, <u>Jianan Zhou</u>, Yaoxin Wu, Cong Zhang, Zhiguang Cao, Kuan-Wen Chen, Jayavelu Senthilnath, Zhuoyi Lin \

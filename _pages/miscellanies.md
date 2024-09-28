@@ -8,7 +8,7 @@ author_profile: true
 ## Academic Service
 
 * Area Chair: TinyPapers Track (ICLR'23);
-* Conference Reviewer: NeurIPS'23-24; ICLR'23-25; ICML'24; CVPR'24; ECCV'24; IJCAI'24; COLM'24; LoG'24; AAAI'25;
+* Conference Reviewer: NeurIPS'23-24; ICLR'23-25; ICML'24; CVPR'24; ECCV'24; IJCAI'24; COLM'24; LoG'24; AAAI'25; AISTATS'25;
 * Journal Reviewer: TNNLS; Neural Networks; JAIR;
 * Student Volunteer: RecSys'23 @ Singapore;
 * Workshop Reviewer:
