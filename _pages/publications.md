@@ -14,15 +14,20 @@ author_profile: true
 > \* Equal Contribution; $\dagger$ Corresponding Author.
 > 
 
+* **Graph Neural Networks for Job Shop Scheduling Problems: A Survey** \
+  Igor G. Smit*, <u>Jianan Zhou</u>\*, Robbert Reijnen, Yaoxin Wu, Jian Chen, Cong Zhang, Zaharah Bukhsh, Yingqian Zhang, Wim Nuijten \
+  *Computers & Operations Research (COR), 2024* \
+  [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2406.14096)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![ELSEVIER](https://img.shields.io/badge/ELSEVIER-Null-lightgrey.svg)]()
+
 * **Learning to Handle Complex Constraints for Vehicle Routing Problems** \
    Jieyi Bi, Yining Ma, <u>Jianan Zhou</u>, Wen Song, Zhiguang Cao, Yaoxin Wu, Jie Zhang \
    *38th Conference on Neural Information Processing Systems (NeurIPS), 2024* \
-   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/NeurIPS-Poster-yellow.svg)](https://nips.cc/virtual/2024/poster/95638)
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2410.21066)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/jieyibi/PIP-constraint)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/NeurIPS-Poster-yellow.svg)](https://nips.cc/virtual/2024/poster/95638)
 
 * **Collaboration! Towards Robust Neural Methods for Routing Problems** \
    <u>Jianan Zhou</u>, Yaoxin Wu, Zhiguang Cao, Wen Song, Jie Zhang, Zhiqi Shen \
    *38th Conference on Neural Information Processing Systems (NeurIPS), 2024* \
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://openreview.net/pdf?id=zEOnlJaRKp)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/NeurIPS-Poster-yellow.svg)](https://nips.cc/virtual/2024/poster/94681)
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2410.04968)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/RoyalSkye/Routing-CNF)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/NeurIPS-Poster-yellow.svg)](https://nips.cc/virtual/2024/poster/94681)
 
 * **MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts** \
   <u>Jianan Zhou</u>, Zhiguang Cao, Yaoxin Wu, Wen Song, Yining Ma, Jie Zhang, Xu Chi \
@@ -60,14 +65,10 @@ author_profile: true
    [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
 
 * **Double-Blind** \
-   Shaodi Feng, <u>Jianan Zhou</u>, Yaoxin Wu, Cong Zhang, Zhiguang Cao, Kuan-Wen Chen, Jayavelu Senthilnath, Zhuoyi Lin \
+   Shaodi Feng, Yaoxin Wu, <u>Jianan Zhou</u>, Cong Zhang, Zhiguang Cao, Kuan-Wen Chen, Jayavelu Senthilnath, Zhuoyi Lin \
    [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
 
 * **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark** \
    Federico Berto\*, Chuanbo Hua\*, Junyoung Park\*, Laurin Luttmann\*, Yining Ma, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, <u>Jianan Zhou</u>, Jieyi Bi, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park \
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2306.17100)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/ai4co/rl4co)
-
-* **Graph Neural Networks for Job Shop Scheduling Problems: A Survey** \
-  Igor G. Smit*, <u>Jianan Zhou</u>\*, Robbert Reijnen, Yaoxin Wu, Jian Chen, Cong Zhang, Zaharah Bukhsh, Wim Nuijten, Yingqian Zhang \
-  [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2406.14096)
 
