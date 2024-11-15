@@ -15,9 +15,9 @@ author_profile: true
 > 
 
 * **Graph Neural Networks for Job Shop Scheduling Problems: A Survey** \
-  Igor G. Smit*, <u>Jianan Zhou</u>\*, Robbert Reijnen, Yaoxin Wu, Jian Chen, Cong Zhang, Zaharah Bukhsh, Yingqian Zhang, Wim Nuijten \
-  *Computers & Operations Research (COR), 2024* \
-  [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2406.14096)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![ELSEVIER](https://img.shields.io/badge/ELSEVIER-Null-lightgrey.svg)]()
+   Igor G. Smit\*, <u>Jianan Zhou</u>\*, Robbert Reijnen, Yaoxin Wu, Jian Chen, Cong Zhang, Zaharah Bukhsh, Yingqian Zhang, Wim Nuijten \
+   *Computers & Operations Research (COR), 2024* \
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2406.14096)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![ELSEVIER](https://img.shields.io/badge/ELSEVIER-Null-lightgrey.svg)]()
 
 * **Learning to Handle Complex Constraints for Vehicle Routing Problems** \
    Jieyi Bi, Yining Ma, <u>Jianan Zhou</u>, Wen Song, Zhiguang Cao, Yaoxin Wu, Jie Zhang \

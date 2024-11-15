@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a third-year Ph.D. student in the College of Computing and Data Science at Nanyang Technological University ([CCDS@NTU](https://www.ntu.edu.sg/computing)), supervised by [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/). Previously, I obtained my B.Eng. in Software Engineering from Northeastern University (NEU) in 2019, and my M.Sc. in Artificial Intelligence from NTU in 2021. After that, I worked as a research assistant at HKBU TMLR group, under the supervision of [Prof. Bo Han](https://bhanml.github.io/).
+Hi! I'm a final-year Ph.D. student in the College of Computing and Data Science at Nanyang Technological University ([CCDS@NTU](https://www.ntu.edu.sg/computing)), supervised by [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/). Previously, I obtained my B.Eng. in Software Engineering from Northeastern University (NEU) in 2019, and my M.Sc. in Artificial Intelligence from NTU in 2021. After that, I worked as a research assistant at HKBU TMLR group, under the supervision of [Prof. Bo Han](https://bhanml.github.io/).
 
 Research
 ======
