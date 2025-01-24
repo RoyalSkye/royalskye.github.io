@@ -14,6 +14,11 @@ author_profile: true
 > \* Equal Contribution; $\dagger$ Corresponding Author.
 > 
 
+* **Rethinking Light Decoder-based Solvers for Vehicle Routing Problems** \
+   Ziwei Huang\*, <u>Jianan Zhou</u>\*, Zhiguang Cao, Yixin Xu \
+   *13th International Conference on Learning Representations (ICLR), 2025* 🇸🇬\
+   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/ICLR-Null-yellow.svg)]()
+
 * **Graph Neural Networks for Job Shop Scheduling Problems: A Survey** \
    Igor G. Smit\*, <u>Jianan Zhou</u>\*, Robbert Reijnen, Yaoxin Wu, Jian Chen, Cong Zhang, Zaharah Bukhsh, Yingqian Zhang, Wim Nuijten \
    *Computers & Operations Research (COR), 2025* \
@@ -21,22 +26,22 @@ author_profile: true
 
 * **Learning to Handle Complex Constraints for Vehicle Routing Problems** \
    Jieyi Bi, Yining Ma, <u>Jianan Zhou</u>, Wen Song, Zhiguang Cao, Yaoxin Wu, Jie Zhang \
-   *38th Conference on Neural Information Processing Systems (NeurIPS), 2024* \
+   *38th Conference on Neural Information Processing Systems (NeurIPS), 2024* 🇨🇦\
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2410.21066)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/jieyibi/PIP-constraint)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/NeurIPS-Poster-yellow.svg)](https://nips.cc/virtual/2024/poster/95638)
 
 * **Collaboration! Towards Robust Neural Methods for Routing Problems** \
    <u>Jianan Zhou</u>, Yaoxin Wu, Zhiguang Cao, Wen Song, Jie Zhang, Zhiqi Shen \
-   *38th Conference on Neural Information Processing Systems (NeurIPS), 2024* \
+   *38th Conference on Neural Information Processing Systems (NeurIPS), 2024* 🇨🇦\
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2410.04968)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/RoyalSkye/Routing-CNF)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/NeurIPS-Poster-yellow.svg)](https://nips.cc/virtual/2024/poster/94681)
 
 * **MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts** \
   <u>Jianan Zhou</u>, Zhiguang Cao, Yaoxin Wu, Wen Song, Yining Ma, Jie Zhang, Xu Chi \
-  *41st International Conference on Machine Learning (ICML), 2024* \
+  *41st International Conference on Machine Learning (ICML), 2024* 🇦🇹\
   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2405.01029)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/RoyalSkye/Routing-MVMoE)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/ICML-Poster-yellow.svg)](https://icml.cc/virtual/2024/poster/33196)
 
 * **Towards Omni-generalizable Neural Methods for Vehicle Routing Problems** \
    <u>Jianan Zhou</u>, Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang \
-   *40th International Conference on Machine Learning (ICML), 2023* \
+   *40th International Conference on Machine Learning (ICML), 2023* 🇺🇸\
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2305.19587)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/RoyalSkye/Omni-VRP)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/ICML-Poster-yellow.svg)](https://icml.cc/virtual/2023/poster/25267)
 
 * **Neural Airport Ground Handling** \
@@ -51,17 +56,29 @@ author_profile: true
 
 * **Adversarial Training with Complementary Labels: On the Benefit of Gradually Informative Attacks** \
    <u>Jianan Zhou</u>\*, Jianing Zhu\*, Jingfeng Zhang, Tongliang Liu, Gang Niu, Bo Han, Masashi Sugiyama \
-   *36th Conference on Neural Information Processing Systems (NeurIPS), 2022* \
+   *36th Conference on Neural Information Processing Systems (NeurIPS), 2022* 🇺🇸\
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2211.00269)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/RoyalSkye/ATCL)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/NeurIPS-Poster-yellow.svg)](https://neurips.cc/virtual/2022/poster/55084)&nbsp;&nbsp;&nbsp;&nbsp;[![Spotlight](https://img.shields.io/badge/NeurIPS-Spotlight-red.svg)](https://nips.cc/virtual/2022/spotlight/65260)
 
 ## Under Review
 
 * **Double-Blind** \
-   Ziwei Huang, <u>Jianan Zhou</u>, Zhiguang Cao, Yixin Xu \
+   <u>Jianan Zhou</u>\*, Jieyi Bi\*, Sirui Li\*, Zhiguang Cao, Yaoxin Wu, Yingqian Zhang, Jie Zhang, Yining Ma, Cathy Wu \
    [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
 
 * **Double-Blind** \
-   Yong Liang Goh, Yining Ma, <u>Jianan Zhou</u>, Zhiguang Cao, Mohammed Haroon Dupty, Wee Sun Lee \
+   Jieyi Bi, Yining Ma, <u>Jianan Zhou</u>, Zhiguang Cao, Wen Song, Jie Zhang, Cathy Wu \
+   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
+
+* **Double-Blind** \
+   Yiding Shi, <u>Jianan Zhou</u>, Wen Song, Zhiguang Cao, Jieyi Bi, Jie Zhang \
+   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
+   
+* **Double-Blind** \
+   Kechen Ouyang, <u>Jianan Zhou</u>, Yaoxin Wu, David Z.W. Wang \
+   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
+
+* **Double-Blind** \
+   Yong Liang Goh, Zhiguang Cao, Yining Ma, <u>Jianan Zhou</u>, Mohammed Haroon Dupty, Wee Sun Lee \
    [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
 
 * **Double-Blind** \
