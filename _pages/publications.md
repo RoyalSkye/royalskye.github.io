@@ -62,7 +62,7 @@ author_profile: true
 ## Under Review
 
 * **Double-Blind** \
-   Manuj Malik, Zhiguang Cao, <u>Jianan Zhou</u>\*, Yan Jin \
+   Manuj Malik, Zhiguang Cao, <u>Jianan Zhou</u>, Yan Jin \
    [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()
 
 * **Double-Blind** \
