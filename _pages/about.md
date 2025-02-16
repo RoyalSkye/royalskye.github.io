@@ -17,8 +17,10 @@ My long-term research lies at the intersection of machine learning and optimizat
 
 During my PhD, my primary research focused on Neural Combinatorial Optimization (NCO), with applications to routing problems (e.g., TSP and VRP) and MILP. Recently, I have been working on advancing neural combinatorial solvers to address practical complexities and exploring the potential of [foundation models (FMs) for combinatorial optimization](https://github.com/ai4co/awesome-fm4co) in solving CO challenges.
 
+* Vehicle Routing Problem (2021 - Present)
 * Neural Combinatorial Optimization (2021 - Present)
 * Foundation Model for Combinatorial Optimization (2024 - Present)
+* Mixed Integer Linear Programming (2025 - Present)
 
 News
 ======
