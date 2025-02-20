@@ -8,7 +8,11 @@ author_profile: true
 ## Academic Service
 
 * Area Chair: TinyPapers Track (ICLR'23);
-* Conference Reviewer: NeurIPS'23-24; ICLR'23-25; ICML'24-25; CVPR'24-25; ECCV'24; IJCAI'24-25; COLM'24-25; LoG'24; AAAI'25; AISTATS'25; KDD'25;
+* Conference Reviewer: 
+  * NeurIPS'23-25; ICLR'23-25; ICML'24-25; 
+  * IJCAI'24-25; AAAI'25; AISTATS'25; KDD'25; 
+  * CVPR'24-25; ECCV'24; LoG'24; COLM'24-25; ICCV'25; 
+
 * Journal Reviewer: TNNLS; Neural Networks; JAIR;
 * Student Volunteer: RecSys'23 @ Singapore;
 * Workshop Reviewer:
@@ -17,8 +21,6 @@ author_profile: true
   * ICML'23: SynS & ML;
   * NeurIPS'23: ML4PS; SyntheticData4ML; R0-FoMo;
   * ICLR'24: ME-FoMo; DPFM;
-
-<!-- Workshop Reviewer: [ML4PS](https://ml4physicalsciences.github.io/2022), [SyntheticData4ML](https://www.syntheticdata4ml.vanderschaar-lab.com) (NeurIPS'22); [ME-FoMo](https://sites.google.com/view/me-fomo2023), [AfricaNLP](https://sites.google.com/view/africanlp2023) (ICLR'23); [SynS & ML](https://syns-ml.github.io/2023) (ICML'23); [ML4PS](https://ml4physicalsciences.github.io/2023), [SyntheticData4ML](https://www.syntheticdata4ml.vanderschaar-lab.com), [R0-FoMo](https://sites.google.com/view/r0-fomo) (NeurIPS'23); [ME-FoMo](https://sites.google.com/view/me-fomo2024), [DPFM](https://sites.google.com/view/dpfm-iclr24) (ICLR'24); -->
 
 Total Reviews: 92
 
