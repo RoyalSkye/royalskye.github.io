@@ -17,7 +17,7 @@ author_profile: true
 * **Rethinking Light Decoder-based Solvers for Vehicle Routing Problems** \
    Ziwei Huang\*, <u>Jianan Zhou</u>\*, Zhiguang Cao, Yixin Xu \
    *13th International Conference on Learning Representations (ICLR), 2025* 🇸🇬\
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://openreview.net/pdf?id=4pRwkYpa2u)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/ICLR-Poster-yellow.svg)](https://iclr.cc/virtual/2025/poster/30992)
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2503.00753)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/ziweileonhuang/reld-nco)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/ICLR-Poster-yellow.svg)](https://iclr.cc/virtual/2025/poster/30992)
 
 * **Graph Neural Networks for Job Shop Scheduling Problems: A Survey** \
    Igor G. Smit\*, <u>Jianan Zhou</u>\*, Robbert Reijnen, Yaoxin Wu, Jian Chen, Cong Zhang, Zaharah Bukhsh, Yingqian Zhang, Wim Nuijten \
