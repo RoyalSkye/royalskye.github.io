@@ -62,7 +62,7 @@ author_profile: true
 ## Under Review
 
 * **Double-Blind** \
-   Manuj Malik, <u>Jianan Zhou</u>, Zhiguang Cao, Yan Jin \
+   Manuj Malik, <u>Jianan Zhou</u>, Zhiguang Cao, Yan Jin
 
 * **Position: Neural Combinatorial Optimization Needs Specialized Foundation Model for Representation Learning** \
    <u>Jianan Zhou</u>\*, Jieyi Bi\*, Sirui Li\*, Zhiguang Cao, Yaoxin Wu, Yingqian Zhang, Jie Zhang, Yining Ma, Cathy Wu \
@@ -73,17 +73,17 @@ author_profile: true
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
 
 * **Double-Blind** \
-   Yiding Shi, <u>Jianan Zhou</u>, Wen Song, Yaoxin Wu, Zhiguang Cao, Jieyi Bi, Jie Zhang \
+   Yiding Shi, <u>Jianan Zhou</u>, Wen Song, Yaoxin Wu, Zhiguang Cao, Jieyi Bi, Jie Zhang
 
 * **Double-Blind** \
-   Kechen Ouyang, <u>Jianan Zhou</u>, Yaoxin Wu, David Z.W. Wang \
+   Kechen Ouyang, <u>Jianan Zhou</u>, Yaoxin Wu, David Z.W. Wang
 
 * **SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity & Hierarchy in Efficiently Layered Decoder** \
    Yong Liang Goh, Zhiguang Cao, Yining Ma, <u>Jianan Zhou</u>, Mohammed Haroon Dupty, Wee Sun Lee \
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://openreview.net/pdf?id=AMbIvaD4Rr)
 
 * **Double-Blind** \
-   Shaodi Feng, Yaoxin Wu, <u>Jianan Zhou</u>, Cong Zhang, Zhiguang Cao, Kuan-Wen Chen, Jayavelu Senthilnath, Zhuoyi Lin \
+   Shaodi Feng, Yaoxin Wu, <u>Jianan Zhou</u>, Cong Zhang, Zhiguang Cao, Kuan-Wen Chen, Jayavelu Senthilnath, Zhuoyi Lin
 
 * **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark** \
    Federico Berto\*, Chuanbo Hua\*, Junyoung Park\*, Laurin Luttmann\*, Yining Ma, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, <u>Jianan Zhou</u>, Jieyi Bi, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park \
