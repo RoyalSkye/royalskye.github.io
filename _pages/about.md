@@ -19,7 +19,6 @@ During my PhD, my primary research focused on Neural Combinatorial Optimization 
 
 * Vehicle Routing Problem
 * Neural Combinatorial Optimization
-* Foundation Model for Combinatorial Optimization
 * Integer Programming
 
 News

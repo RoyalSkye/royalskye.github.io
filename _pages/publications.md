@@ -14,6 +14,11 @@ author_profile: true
 > \* Equal Contribution; $\dagger$ Corresponding Author.
 > 
 
+* **SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity & Hierarchy in Efficiently Layered Decoder** \
+   Yong Liang Goh, Zhiguang Cao, Yining Ma, <u>Jianan Zhou</u>, Mohammed Haroon Dupty, Wee Sun Lee \
+   *42nd International Conference on Machine Learning (ICML), 2025* 🇨🇦\
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://openreview.net/pdf?id=AMbIvaD4Rr)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/ICML-Poster-yellow.svg)]()
+
 * **Rethinking Light Decoder-based Solvers for Vehicle Routing Problems** \
    Ziwei Huang\*, <u>Jianan Zhou</u>\*, Zhiguang Cao, Yixin Xu \
    *13th International Conference on Learning Representations (ICLR), 2025* 🇸🇬\
@@ -65,7 +70,7 @@ author_profile: true
    Manuj Malik, <u>Jianan Zhou</u>, Zhiguang Cao, Yan Jin
 
 * **Position: Neural Combinatorial Optimization Needs Specialized Foundation Model for Representation Learning** \
-   <u>Jianan Zhou</u>\*, Jieyi Bi\*, Sirui Li\*, Zhiguang Cao, Yaoxin Wu, Yingqian Zhang, Jie Zhang, Yining Ma, Cathy Wu \
+   <u>Jianan Zhou</u>\*, Jieyi Bi\*, Sirui Li\*, Yaoxin Wu, Yingqian Zhang, Jie Zhang, Yining Ma, Cathy Wu \
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Awesome_List-blue.svg)](https://github.com/ai4co/awesome-fm4co)
 
 * **Construct-and-Refine: A Unified Neural Framework for Efficient Constraint Handling in Routing Problems** \
@@ -73,14 +78,10 @@ author_profile: true
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
 
 * **Double-Blind** \
-   Yiding Shi, <u>Jianan Zhou</u>, Wen Song, Yaoxin Wu, Zhiguang Cao, Jieyi Bi, Jie Zhang
+   Yiding Shi, <u>Jianan Zhou</u>, Wen Song, Yaoxin Wu, Jieyi Bi, Jie Zhang
 
 * **Double-Blind** \
    Kechen Ouyang, <u>Jianan Zhou</u>, Yaoxin Wu, David Z.W. Wang
-
-* **SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity & Hierarchy in Efficiently Layered Decoder** \
-   Yong Liang Goh, Zhiguang Cao, Yining Ma, <u>Jianan Zhou</u>, Mohammed Haroon Dupty, Wee Sun Lee \
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://openreview.net/pdf?id=AMbIvaD4Rr)
 
 * **Double-Blind** \
    Shaodi Feng, Yaoxin Wu, <u>Jianan Zhou</u>, Cong Zhang, Zhiguang Cao, Kuan-Wen Chen, Jayavelu Senthilnath, Zhuoyi Lin
