@@ -14,10 +14,15 @@ author_profile: true
 > \* Equal Contribution; $\dagger$ Corresponding Author.
 > 
 
-* **SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity & Hierarchy in Efficiently Layered Decoder** \
+* **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark** \
+   Federico Berto\*, Chuanbo Hua\*, Junyoung Park\*, Laurin Luttmann\*, Yining Ma, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, <u>Jianan Zhou</u>, Jieyi Bi, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park \
+   *31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025* 🇨🇦\
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2306.17100)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Benchmark-blue.svg)](https://github.com/ai4co/rl4co)&nbsp;&nbsp;&nbsp;&nbsp;[![Oral](https://img.shields.io/badge/KDD-Oral-red.svg)](https://kdd2025.kdd.org)
+
+* **SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity and Hierarchy** \
    Yong Liang Goh, Zhiguang Cao, Yining Ma, <u>Jianan Zhou</u>, Mohammed Haroon Dupty, Wee Sun Lee \
    *42nd International Conference on Machine Learning (ICML), 2025* 🇨🇦\
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://openreview.net/pdf?id=AMbIvaD4Rr)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/ICML-Poster-yellow.svg)]()
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://openreview.net/pdf?id=AMbIvaD4Rr)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/ICML-Poster-yellow.svg)](https://icml.cc/virtual/2025/poster/46391)
 
 * **Rethinking Light Decoder-based Solvers for Vehicle Routing Problems** \
    Ziwei Huang\*, <u>Jianan Zhou</u>\*, Zhiguang Cao, Yixin Xu \
@@ -67,26 +72,25 @@ author_profile: true
 ## Under Review
 
 * **Double-Blind** \
+   Mingfeng Fan, <u>Jianan Zhou</u>, Yifeng Zhang, Yaoxin Wu, Jinbiao Chen, Guillaume Adrien Sartoretti
+
+* **Double-Blind** \
    Manuj Malik, <u>Jianan Zhou</u>, Zhiguang Cao, Yan Jin
 
-* **Position: Neural Combinatorial Optimization Needs Specialized Foundation Model for Representation Learning** \
+* **Double-Blind** \
    <u>Jianan Zhou</u>\*, Jieyi Bi\*, Sirui Li\*, Yaoxin Wu, Yingqian Zhang, Jie Zhang, Yining Ma, Cathy Wu \
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Awesome_List-blue.svg)](https://github.com/ai4co/awesome-fm4co)
 
-* **Construct-and-Refine: A Unified Neural Framework for Efficient Constraint Handling in Routing Problems** \
+* **Double-Blind** \
    Jieyi Bi, Zhiguang Cao, <u>Jianan Zhou</u>, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu \
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
 
 * **Double-Blind** \
-   Yiding Shi, <u>Jianan Zhou</u>, Wen Song, Yaoxin Wu, Jieyi Bi, Jie Zhang
+   Yiding Shi, <u>Jianan Zhou</u>, Wen Song, Jieyi Bi, Yaoxin Wu, Jie Zhang
+   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
 
 * **Double-Blind** \
    Kechen Ouyang, <u>Jianan Zhou</u>, Yaoxin Wu, David Z.W. Wang
 
 * **Double-Blind** \
    Shaodi Feng, Yaoxin Wu, <u>Jianan Zhou</u>, Cong Zhang, Zhiguang Cao, Kuan-Wen Chen, Jayavelu Senthilnath, Zhuoyi Lin
-
-* **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark** \
-   Federico Berto\*, Chuanbo Hua\*, Junyoung Park\*, Laurin Luttmann\*, Yining Ma, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, <u>Jianan Zhou</u>, Jieyi Bi, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park \
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2306.17100)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/ai4co/rl4co)
-
