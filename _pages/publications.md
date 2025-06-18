@@ -80,7 +80,7 @@ author_profile: true
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
 
 * **Preference-Driven Multi-Objective Combinatorial Optimization with Conditional Computation** \
-   Mingfeng Fan, <u>Jianan Zhou</u>$\dagger$, Yifeng Zhang, Yaoxin Wu, Jinbiao Chen, Guillaume Adrien Sartoretti
+   Mingfeng Fan, <u>Jianan Zhou</u>$\dagger$, Yifeng Zhang, Yaoxin Wu, Jinbiao Chen, Guillaume Adrien Sartoretti \
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2506.08898)
 
 * **Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization** \
