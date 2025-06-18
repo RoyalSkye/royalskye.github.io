@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a final-year Ph.D. student in the College of Computing and Data Science at Nanyang Technological University ([CCDS@NTU](https://www.ntu.edu.sg/computing)), supervised by [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/) and Dr. Chi Xu. Previously, I obtained my B.Eng. in Software Engineering from Northeastern University (NEU) in 2019, and my M.Sc. in Artificial Intelligence from NTU in 2021. After that, I worked as a research assistant at HKBU TMLR group, under the supervision of [Prof. Bo Han](https://bhanml.github.io/).
+Hi! I'm a final-year Ph.D. student in the College of Computing and Data Science at Nanyang Technological University ([CCDS@NTU](https://www.ntu.edu.sg/computing)), where I’m fortunate to be advised by [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/) and Dr. Chi Xu. Previously, I received my B.Eng. in Software Engineering from Northeastern University (NEU) in 2019, and my M.Sc. in Artificial Intelligence from NTU in 2021. After that, I worked as a research assistant at HKBU TMLR group, under the supervision of [Prof. Bo Han](https://bhanml.github.io/).
 
 Research
 ======
 
 My long-term research lies at the intersection of machine learning and optimization, striving to enable automated decision-making with artificial intelligence for complex optimization problems. Central to my research is the field of [Learning to Optimize](https://arxiv.org/pdf/1811.06128.pdf), where advanced machine learning techniques are leveraged to learn deep models capable of assisting in, or directly solving, challenging optimization problems.
 
-During my PhD, my primary research focused on Neural Combinatorial Optimization (NCO), with applications to routing problems (e.g., TSP and VRP) and MILP. Recently, I have been working on advancing neural combinatorial solvers to address practical complexities and exploring the potential of [foundation models (FMs) for combinatorial optimization](https://github.com/ai4co/awesome-fm4co) in solving CO challenges.
+During my PhD, my primary research focused on Neural Combinatorial Optimization (NCO), with applications to routing problems (e.g., TSP and VRP). Recently, I have been working on integer programming and exploring the potential of [foundation models for combinatorial optimization](https://github.com/ai4co/awesome-fm4co) in solving CO challenges.
 
 * Vehicle Routing Problem
 * Neural Combinatorial Optimization

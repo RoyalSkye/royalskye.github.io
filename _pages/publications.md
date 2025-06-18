@@ -22,7 +22,7 @@ author_profile: true
 * **SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity and Hierarchy** \
    Yong Liang Goh, Zhiguang Cao, Yining Ma, <u>Jianan Zhou</u>, Mohammed Haroon Dupty, Wee Sun Lee \
    *42nd International Conference on Machine Learning (ICML), 2025* 🇨🇦\
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://openreview.net/pdf?id=AMbIvaD4Rr)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/ICML-Poster-yellow.svg)](https://icml.cc/virtual/2025/poster/46391)
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2506.08424)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/ICML-Poster-yellow.svg)](https://icml.cc/virtual/2025/poster/46391)
 
 * **Rethinking Light Decoder-based Solvers for Vehicle Routing Problems** \
    Ziwei Huang\*, <u>Jianan Zhou</u>\*, Zhiguang Cao, Yixin Xu \
@@ -71,26 +71,27 @@ author_profile: true
 
 ## Under Review
 
-* **Double-Blind** \
-   Mingfeng Fan, <u>Jianan Zhou</u>, Yifeng Zhang, Yaoxin Wu, Jinbiao Chen, Guillaume Adrien Sartoretti
-
-* **Double-Blind** \
-   Manuj Malik, <u>Jianan Zhou</u>, Zhiguang Cao, Yan Jin
-
-* **Double-Blind** \
+* **Combinatorial Optimization Foundation Model Needs Specialized Representation Learning** \
    <u>Jianan Zhou</u>\*, Jieyi Bi\*, Sirui Li\*, Yaoxin Wu, Yingqian Zhang, Jie Zhang, Yining Ma, Cathy Wu \
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Awesome_List-blue.svg)](https://github.com/ai4co/awesome-fm4co)
 
-* **Double-Blind** \
+* **Neural Construct-and-Refine Framework for Efficient Constraint Handling in Routing Problems** \
    Jieyi Bi, Zhiguang Cao, <u>Jianan Zhou</u>, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu \
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
 
+* **Preference-Driven Multi-Objective Combinatorial Optimization with Conditional Computation** \
+   Mingfeng Fan, <u>Jianan Zhou</u>$\dagger$, Yifeng Zhang, Yaoxin Wu, Jinbiao Chen, Guillaume Adrien Sartoretti
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2506.08898)
+
+* **Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization** \
+   Yiding Shi, <u>Jianan Zhou</u>$\dagger$, Wen Song$\dagger$, Jieyi Bi, Yaoxin Wu, Jie Zhang \
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2505.20881)
+
 * **Double-Blind** \
-   Yiding Shi, <u>Jianan Zhou</u>, Wen Song, Jieyi Bi, Yaoxin Wu, Jie Zhang \
-   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
+   Manuj Malik, <u>Jianan Zhou</u>, Zhiguang Cao
 
 * **Double-Blind** \
    Kechen Ouyang, <u>Jianan Zhou</u>, Yaoxin Wu, David Z.W. Wang
 
 * **Double-Blind** \
-   Shaodi Feng, Yaoxin Wu, <u>Jianan Zhou</u>, Cong Zhang, Zhiguang Cao, Kuan-Wen Chen, Jayavelu Senthilnath, Zhuoyi Lin
+   Shaodi Feng, Zhuoyi Lin, <u>Jianan Zhou</u>, Cong Zhang, Jingwen Li, Kuan-Wen Chen, Jayavelu Senthilnath, Yew-Soon Ong
