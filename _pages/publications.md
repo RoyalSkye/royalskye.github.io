@@ -16,7 +16,7 @@ author_profile: true
 
 * **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark** \
    Federico Berto\*, Chuanbo Hua\*, Junyoung Park\*, Laurin Luttmann\*, Yining Ma, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, <u>Jianan Zhou</u>, Jieyi Bi, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park \
-   *31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD <font color=red>**Oral**</font>), 2025* 🇨🇦\
+   *31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD <font color=red><b>Oral</b></font>), 2025* 🇨🇦\
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2306.17100)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Benchmark-blue.svg)](https://github.com/ai4co/rl4co)&nbsp;&nbsp;&nbsp;&nbsp;[![Oral](https://img.shields.io/badge/KDD-Oral-red.svg)](https://kdd2025.kdd.org)
 
 * **SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity and Hierarchy** \
