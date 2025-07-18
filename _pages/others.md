@@ -1,27 +1,11 @@
 ---
 layout: archive
-title: "Miscellanies"
-permalink: /Miscellanies/
+title: "Others"
+permalink: /others/
 author_profile: true
 ---
 
-## Academic Service
-
-* Area Chair: TinyPapers Track (ICLR'23);
-* Conference Reviewer: NeurIPS'23-25; ICLR'23-25; ICML'24-25; CVPR'24-25; ECCV'24; LoG'24; COLM'24-25; IJCAI'24-25; AAAI'25; AISTATS'25; KDD'25;
-  
-* Journal Reviewer: TNNLS; Neural Networks; JAIR;
-* Student Volunteer: RecSys'23; ICLR'25;
-* Workshop Reviewer:
-  * NeurIPS'22: ML4PS; SyntheticData4ML;
-  * ICLR'23: ME-FoMo; AfricaNLP;
-  * ICML'23: SynS & ML;
-  * NeurIPS'23: ML4PS; SyntheticData4ML; R0-FoMo;
-  * ICLR'24: ME-FoMo; DPFM;
-
-Total Reviews: 103
-
-## Honors and Awards
+## Honor and Award
 
 * NeurIPS Scholar Award, 2024
 * ICML Best Reviewer Award, 2024
