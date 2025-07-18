@@ -17,9 +17,9 @@ Research
 
 My long-term research lies at the intersection of machine learning and optimization, striving to enable automated decision-making with artificial intelligence for complex optimization problems. Central to my research is the field of [*Learning to Optimize*](https://arxiv.org/pdf/1811.06128.pdf), where advanced machine learning techniques are leveraged to learn deep models capable of assisting in, or directly solving, challenging optimization problems.
 
-During PhD, my primary research focused on *Neural Combinatorial Optimization (NCO)*, particularly enhancing the generalization of neural solvers, with applications to routing problems (e.g., TSP and VRP). Additionally, my earlier research explored efficient methods for solving large-scale MILP instances arising from real-world applications, such as those in aviation.
+During PhD, my primary research focused on *Neural Combinatorial Optimization (NCO)*, particularly enhancing the generalization of neural solvers, with applications to routing problems (e.g., TSP and VRP). Additionally, my earlier research explored efficient methods for solving large-scale MILP instances arising from real-world applications, such as those in aviation. 
 
-More recently, my research has focused on addressing practical CO challenges, including handling complex constraints, building robust and trustworthy CO approaches through human-AI collaboration, and advancing foundation models for combinatorial optimization [(FM4CO)](https://github.com/ai4co/awesome-fm4co).
+More recently, my research has focused on addressing practical CO challenges, including handling complex constraints, building robust and trustworthy CO approaches through human-AI collaboration, and advancing foundation models for combinatorial optimization ([FM4CO](https://github.com/ai4co/awesome-fm4co)).
 
 *Research Keywords: Vehicle Routing; Neural Combinatorial Optimization; Learning to Optimize*
 
