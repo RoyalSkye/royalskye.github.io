@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-<p style=text-align:justify>Hi! I'm a final-year Ph.D. student in the College of Computing and Data Science at Nanyang Technological University ([CCDS@NTU](https://www.ntu.edu.sg/computing)), where I’m fortunate to be advised by [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/) and Dr. Chi Xu. Previously, I received my B.Eng. in Software Engineering from Northeastern University (NEU) in 2019, and my M.Sc. in Artificial Intelligence from NTU in 2021. After that, I worked as a research assistant at HKBU TMLR group, under the supervision of [Prof. Bo Han](https://bhanml.github.io/).</p>
+Hi! I'm a final-year Ph.D. student in the College of Computing and Data Science at Nanyang Technological University ([CCDS@NTU](https://www.ntu.edu.sg/computing)), where I’m fortunate to be advised by [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/) and Dr. Chi Xu. Previously, I received my B.Eng. in Software Engineering from Northeastern University (NEU) in 2019, and my M.Sc. in Artificial Intelligence from NTU in 2021. After that, I worked as a research assistant at HKBU TMLR group, under the supervision of [Prof. Bo Han](https://bhanml.github.io/).
 
 <font color=red><i>I'm actively looking for a postdoctoral position in 2026. Please contact me if you know of any suitable positions!</i></font>
 
 Research
 ======
 
-<p style=text-align:justify>My long-term research lies at the intersection of machine learning and optimization, striving to enable automated decision-making with artificial intelligence for complex optimization problems. Central to my research is the field of [*Learning to Optimize*](https://arxiv.org/pdf/1811.06128.pdf), where advanced machine learning techniques are leveraged to learn deep models capable of assisting in, or directly solving, challenging optimization problems.</p>
+My long-term research lies at the intersection of machine learning and optimization, striving to enable automated decision-making with artificial intelligence for complex optimization problems. Central to my research is the field of [*Learning to Optimize*](https://arxiv.org/pdf/1811.06128.pdf), where advanced machine learning techniques are leveraged to learn deep models capable of assisting in, or directly solving, challenging optimization problems.
 
-<p style=text-align:justify>During PhD, my primary research focused on *Neural Combinatorial Optimization (NCO)*, particularly enhancing the generalization of neural solvers, with applications to routing problems (e.g., TSP and VRP). Additionally, my earlier research explored efficient methods for solving large-scale MILP instances arising from real-world applications, such as those in aviation.</p>
+During PhD, my primary research focused on *Neural Combinatorial Optimization (NCO)*, particularly enhancing the generalization of neural solvers, with applications to routing problems (e.g., TSP and VRP). Additionally, my earlier research explored efficient methods for solving large-scale MILP instances arising from real-world applications, such as those in aviation.
 
-<p style=text-align:justify>More recently, my research has focused on addressing practical CO challenges, including handling complex constraints, building robust and trustworthy CO approaches through human-AI collaboration, and advancing foundation models for combinatorial optimization [(FM4CO)](https://github.com/ai4co/awesome-fm4co).</p>
+More recently, my research has focused on addressing practical CO challenges, including handling complex constraints, building robust and trustworthy CO approaches through human-AI collaboration, and advancing foundation models for combinatorial optimization [(FM4CO)](https://github.com/ai4co/awesome-fm4co).
 
 *Research Keywords: Vehicle Routing; Neural Combinatorial Optimization; Learning to Optimize*
 
