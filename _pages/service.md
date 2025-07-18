@@ -7,11 +7,11 @@ author_profile: true
 
 ## Invited Talk
 
-* Massachusetts Institute of Technology (MIT), hosted by [Prof. Cathy Wu](http://www.wucathy.com/blog/):
-  Combinatorial Optimization Foundation Model Needs Specialized Representation Learning
+* Massachusetts Institute of Technology (MIT), hosted by [Prof. Cathy Wu](http://www.wucathy.com/blog/): \
+  Combinatorial Optimization Foundation Model Needs Specialized Representation Learning \
   27 Jun 2025, Online
-* Carnegie Mellon University (CMU), hosted by [Prof. Yiming Yang](https://www.cs.cmu.edu/~yiming/):
-  Improving Generalization of Neural Solvers for Routing Problems
+* Carnegie Mellon University (CMU), hosted by [Prof. Yiming Yang](https://www.cs.cmu.edu/~yiming/): \
+  Improving Generalization of Neural Solvers for Routing Problems \
   21 Jan 2025, Online
 
 ## Area Chair
@@ -25,7 +25,6 @@ author_profile: true
 - AAAI Conference on Artificial Intelligence (AAAI), 2025-2026
 - International Joint Conferences on Artificial Intelligence (IJCAI), 2024-2025
 - Conference on Language Modeling (COLM), 2024-2025
-
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025
 - International Conference on Artificial Intelligence and Statistics (AISTATS), 2025
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024-2025
