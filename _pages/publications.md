@@ -71,11 +71,11 @@ author_profile: true
 
 ## Under Review
 
-* **Combinatorial Optimization Foundation Model Needs Specialized Representation Learning** \
+* **Double-Blind** \
    <u>Jianan Zhou</u>\*, Jieyi Bi\*, Sirui Li\*, Yaoxin Wu, Yingqian Zhang, Jie Zhang, Yining Ma, Cathy Wu \
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Awesome_List-blue.svg)](https://github.com/ai4co/awesome-fm4co)
 
-* **Neural Construct-and-Refine Framework for Efficient Constraint Handling in Routing Problems** \
+* **Double-Blind** \
    Jieyi Bi, Zhiguang Cao, <u>Jianan Zhou</u>, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu \
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
 
@@ -86,6 +86,12 @@ author_profile: true
 * **Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization** \
    Yiding Shi, <u>Jianan Zhou</u>$^\dagger$, Wen Song$^\dagger$, Jieyi Bi, Yaoxin Wu, Jie Zhang \
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2505.20881)
+
+* **Double-Blind** \
+   Manuj Malik, <u>Jianan Zhou</u>$^\dagger$, Shashank Reddy Chirra, Zhiguang Cao
+
+* **Double-Blind** \
+   Chen Shengkai, Zhiguang Cao, <u>Jianan Zhou</u>, Yaoxin Wu, Senthilnath Jayavelu, Zhuoyi Lin, Xiaoli Li, Shili Xiang
 
 * **Double-Blind** \
    Manuj Malik, <u>Jianan Zhou</u>, Zhiguang Cao
