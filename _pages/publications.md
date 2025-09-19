@@ -14,6 +14,16 @@ author_profile: true
 > \* Equal Contribution; $\dagger$ Corresponding Author.
 > 
 
+* **Preference-Driven Multi-Objective Combinatorial Optimization with Conditional Computation** \
+   Mingfeng Fan, <u>Jianan Zhou</u>$^\dagger$, Yifeng Zhang, Yaoxin Wu, Jinbiao Chen, Guillaume Adrien Sartoretti \
+   *39th Conference on Neural Information Processing Systems (NeurIPS), 2025* 🇺🇸\
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2506.08898)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/NeurIPS-Poster-yellow.svg)](https://nips.cc/virtual/2025/poster/117850)
+
+* **Learning to Optimize Capacity Planning in Semiconductor Manufacturing** \
+   Philipp Andelfinger, Jieyi Bi, Qiuyu Zhu, <u>Jianan Zhou</u>, Bo Zhang, Fei Fei Zhang, Chew Wye Chan, Boon Ping Gan, Wentong Cai, Jie Zhang \
+   *24th Asia Simulation Conference (AsiaSim), 2025* 🇸🇬\
+   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()
+
 * **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark** \
    Federico Berto\*, Chuanbo Hua\*, Junyoung Park\*, Laurin Luttmann\*, Yining Ma, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, <u>Jianan Zhou</u>, Jieyi Bi, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park \
    *31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD <font color=red><b>Oral</b></font>), 2025* 🇨🇦\
@@ -78,10 +88,6 @@ author_profile: true
 * **Double-Blind** \
    Jieyi Bi, Zhiguang Cao, <u>Jianan Zhou</u>, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu \
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
-
-* **Preference-Driven Multi-Objective Combinatorial Optimization with Conditional Computation** \
-   Mingfeng Fan, <u>Jianan Zhou</u>$^\dagger$, Yifeng Zhang, Yaoxin Wu, Jinbiao Chen, Guillaume Adrien Sartoretti \
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2506.08898)
 
 * **Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization** \
    Yiding Shi, <u>Jianan Zhou</u>$^\dagger$, Wen Song$^\dagger$, Jieyi Bi, Yaoxin Wu, Jie Zhang \
