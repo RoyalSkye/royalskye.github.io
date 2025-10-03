@@ -13,9 +13,6 @@ author_profile: true
 * Massachusetts Institute of Technology (MIT), hosted by [Prof. Cathy Wu](http://www.wucathy.com/blog/): \
   Combinatorial Optimization Foundation Model Needs Specialized Representation Learning \
   27 Jun 2025, Online
-* Carnegie Mellon University (CMU), hosted by [Prof. Yiming Yang](https://www.cs.cmu.edu/~yiming/): \
-  Improving Generalization of Neural Solvers for Routing Problems \
-  21 Jan 2025, Online
 
 ## Area Chair
 

@@ -15,7 +15,7 @@ author_profile: true
 > 
 
 * **Preference-Driven Multi-Objective Combinatorial Optimization with Conditional Computation** \
-   Mingfeng Fan, <u>Jianan Zhou</u>$^\dagger$, Yifeng Zhang, Yaoxin Wu, Jinbiao Chen, Guillaume Adrien Sartoretti \
+   Mingfeng Fan, <u>Jianan Zhou</u>$^\dagger$, Yifeng Zhang, Yaoxin Wu$^\dagger$, Jinbiao Chen, Guillaume Adrien Sartoretti \
    *39th Conference on Neural Information Processing Systems (NeurIPS), 2025* 🇺🇸\
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2506.08898)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/NeurIPS-Poster-yellow.svg)](https://nips.cc/virtual/2025/poster/117850)
 
@@ -90,8 +90,11 @@ author_profile: true
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
 
 * **Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization** \
-   Yiding Shi, <u>Jianan Zhou</u>$^\dagger$, Wen Song$^\dagger$, Jieyi Bi, Yaoxin Wu, Jie Zhang \
+   Yiding Shi, <u>Jianan Zhou</u>$^\dagger$, Wen Song$^\dagger$, Jieyi Bi, Yaoxin Wu, Zhiguang Cao, Jie Zhang \
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2505.20881)
+
+* **Double-Blind** \
+   Ni Zhang, Zhiguang Cao, <u>Jianan Zhou</u>, Cong Zhang, Yew-Soon Ong
 
 * **Double-Blind** \
    Manuj Malik, <u>Jianan Zhou</u>$^\dagger$, Shashank Reddy Chirra, Zhiguang Cao
@@ -100,7 +103,7 @@ author_profile: true
    Chen Shengkai, Zhiguang Cao, <u>Jianan Zhou</u>, Yaoxin Wu, Senthilnath Jayavelu, Zhuoyi Lin, Xiaoli Li, Shili Xiang
 
 * **Double-Blind** \
-   Manuj Malik, <u>Jianan Zhou</u>, Zhiguang Cao
+   Manuj Malik, <u>Jianan Zhou</u>, Yan Jin, Zhiguang Cao
 
 * **Double-Blind** \
    Kechen Ouyang, <u>Jianan Zhou</u>, Yaoxin Wu, David Z.W. Wang
