@@ -14,15 +14,30 @@ author_profile: true
 > \* Equal Contribution; $\dagger$ Corresponding Author.
 > 
 
+* **DRAGON: LLM-Driven Decomposition and Reconstruction Agents for Large-Scale Combinatorial Optimization** \
+   Chen Shengkai, Zhiguang Cao, <u>Jianan Zhou</u>, Yaoxin Wu, Senthilnath Jayavelu, Zhuoyi Lin, Xiaoli Li, Shili Xiang \
+   *25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS <font color=red><b>Oral</b></font>), 2026* 🇨🇾\
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2601.06502)
+
+* **PyVRP$^+$: LLM-Driven Metacognitive Heuristic Evolution for Hybrid Genetic Search in Vehicle Routing Problems** \
+   Manuj Malik, <u>Jianan Zhou</u>$^\dagger$, Shashank Reddy Chirra, Zhiguang Cao \
+   *25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026* 🇨🇾\
+   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()
+
+* **LLMAide: Language-Assisted Neural Solver for Vehicle Routing Problems** \
+   Manuj Malik, <u>Jianan Zhou</u>, Yan Jin, Zhiguang Cao \
+   *25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026* 🇨🇾\
+   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()
+
 * **Preference-Driven Multi-Objective Combinatorial Optimization with Conditional Computation** \
    Mingfeng Fan, <u>Jianan Zhou</u>$^\dagger$, Yifeng Zhang, Yaoxin Wu$^\dagger$, Jinbiao Chen, Guillaume Adrien Sartoretti \
    *39th Conference on Neural Information Processing Systems (NeurIPS), 2025* 🇺🇸\
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2506.08898)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Null-blue.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/NeurIPS-Poster-yellow.svg)](https://nips.cc/virtual/2025/poster/117850)
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2506.08898)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/mingfan321/POCCO)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/NeurIPS-Poster-yellow.svg)](https://nips.cc/virtual/2025/poster/117850)
 
 * **Learning to Optimize Capacity Planning in Semiconductor Manufacturing** \
-   Philipp Andelfinger, Jieyi Bi, Qiuyu Zhu, <u>Jianan Zhou</u>, Bo Zhang, Fei Fei Zhang, Chew Wye Chan, Boon Ping Gan, Wentong Cai, Jie Zhang \
+   Philipp Andelfinger\*, Jieyi Bi\*, Qiuyu Zhu\*, <u>Jianan Zhou</u>, Bo Zhang, Fei Fei Zhang, Chew Wye Chan, Boon Ping Gan, Wentong Cai, Jie Zhang \
    *24th Asia Simulation Conference (AsiaSim), 2025* 🇸🇬\
-   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2509.15767)
 
 * **RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark** \
    Federico Berto\*, Chuanbo Hua\*, Junyoung Park\*, Laurin Luttmann\*, Yining Ma, Fanchen Bu, Jiarui Wang, Haoran Ye, Minsu Kim, Sanghyeok Choi, Nayeli Gast Zepeda, André Hottung, <u>Jianan Zhou</u>, Jieyi Bi, Yu Hu, Fei Liu, Hyeonah Kim, Jiwoo Son, Haeyeon Kim, Davide Angioni, Wouter Kool, Zhiguang Cao, Qingfu Zhang, Joungho Kim, Jie Zhang, Kijung Shin, Cathy Wu, Sungsoo Ahn, Guojie Song, Changhyun Kwon, Kevin Tierney, Lin Xie, Jinkyoo Park \
@@ -68,7 +83,7 @@ author_profile: true
    Yaoxin Wu\*, <u>Jianan Zhou</u>\*, Yunwen Xia, Xianli Zhang, Zhiguang Cao, Jie Zhang \
    *IEEE Transactions on Intelligent Transportation Systems (TITS), 2023* \
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2303.02442)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/RoyalSkye/AGH)&nbsp;&nbsp;&nbsp;&nbsp;[![IEEE](https://img.shields.io/badge/IEEE-TITS-lightgrey.svg)](https://doi.org/10.1109/TITS.2023.3253552)
-   
+
 * **Learning Large Neighborhood Search for Vehicle Routing in Airport Ground Handling** \
    <u>Jianan Zhou</u>, Yaoxin Wu, Zhiguang Cao, Wen Song, Jie Zhang, Zhenghua Chen \
    *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023* \
@@ -93,20 +108,16 @@ author_profile: true
    Yiding Shi, <u>Jianan Zhou</u>$^\dagger$, Wen Song$^\dagger$, Jieyi Bi, Yaoxin Wu, Zhiguang Cao, Jie Zhang \
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2505.20881)
 
-* **Double-Blind** \
+* **An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems** \
    Ni Zhang, Zhiguang Cao, <u>Jianan Zhou</u>, Cong Zhang, Yew-Soon Ong
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2510.16701)
 
 * **Double-Blind** \
-   Manuj Malik, <u>Jianan Zhou</u>$^\dagger$, Shashank Reddy Chirra, Zhiguang Cao
-
-* **Double-Blind** \
-   Chen Shengkai, Zhiguang Cao, <u>Jianan Zhou</u>, Yaoxin Wu, Senthilnath Jayavelu, Zhuoyi Lin, Xiaoli Li, Shili Xiang
-
-* **Double-Blind** \
-   Manuj Malik, <u>Jianan Zhou</u>, Yan Jin, Zhiguang Cao
-
+   Ni Zhang, <u>Jianan Zhou</u>, YueJiao Gong, Zhiguang Cao
+   
 * **Double-Blind** \
    Kechen Ouyang, <u>Jianan Zhou</u>, Yaoxin Wu, David Z.W. Wang
 
-* **Double-Blind** \
+* **Lifelong Learner: Discovering Versatile Neural Solvers for Vehicle Routing Problems** \
    Shaodi Feng, Zhuoyi Lin, <u>Jianan Zhou</u>, Cong Zhang, Jingwen Li, Kuan-Wen Chen, Jayavelu Senthilnath, Yew-Soon Ong
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2508.11679)
