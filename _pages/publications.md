@@ -14,6 +14,21 @@ author_profile: true
 > \* Equal Contribution; $\dagger$ Corresponding Author.
 > 
 
+* **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems** \
+   Jieyi Bi, Zhiguang Cao, <u>Jianan Zhou</u>, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu \
+   *14th International Conference on Learning Representations (ICLR), 2026* 🇧🇷\
+   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Soon-blue.svg)]()
+
+* **Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization** \
+   Yiding Shi, <u>Jianan Zhou</u>$^\dagger$, Wen Song$^\dagger$, Jieyi Bi, Yaoxin Wu, Zhiguang Cao, Jie Zhang \
+   *14th International Conference on Learning Representations (ICLR), 2026* 🇧🇷\
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2505.20881)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Soon-blue.svg)]()
+
+* **An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems** \
+   Ni Zhang, Zhiguang Cao, <u>Jianan Zhou</u>, Cong Zhang, Yew-Soon Ong \
+   *14th International Conference on Learning Representations (ICLR), 2026* 🇧🇷\
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2510.16701)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Soon-blue.svg)]()
+
 * **DRAGON: LLM-Driven Decomposition and Reconstruction Agents for Large-Scale Combinatorial Optimization** \
    Chen Shengkai, Zhiguang Cao, <u>Jianan Zhou</u>, Yaoxin Wu, Senthilnath Jayavelu, Zhuoyi Lin, Xiaoli Li, Shili Xiang \
    *25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS <font color=red><b>Oral</b></font>), 2026* 🇨🇾\
@@ -101,22 +116,13 @@ author_profile: true
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Awesome_List-blue.svg)](https://github.com/ai4co/awesome-fm4co)
 
 * **Double-Blind** \
-   Jieyi Bi, Zhiguang Cao, <u>Jianan Zhou</u>, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu \
-   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()
-
-* **Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization** \
-   Yiding Shi, <u>Jianan Zhou</u>$^\dagger$, Wen Song$^\dagger$, Jieyi Bi, Yaoxin Wu, Zhiguang Cao, Jie Zhang \
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2505.20881)
-
-* **An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems** \
-   Ni Zhang, Zhiguang Cao, <u>Jianan Zhou</u>, Cong Zhang, Yew-Soon Ong \
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2510.16701)
-
-* **Double-Blind** \
-   Ni Zhang, <u>Jianan Zhou</u>, YueJiao Gong, Zhiguang Cao
+   Mingfeng Fan, <u>Jianan Zhou</u>$^\dagger$, Jiaqi Cheng, Yifeng Zhang, Jie Zhang, Guillaume Adrien Sartoretti
    
 * **Double-Blind** \
-   Kechen Ouyang, <u>Jianan Zhou</u>, Yaoxin Wu, David Z.W. Wang
+   Jianghan Zhu, Zhiguang Cao, <u>Jianan Zhou</u>$^\dagger$, Ni Zhang, Yaoxin Wu, Zhuoyi Lin
+
+* **Double-Blind** \
+   Ni Zhang, <u>Jianan Zhou</u>$^\dagger$, YueJiao Gong, Zhiguang Cao
 
 * **Lifelong Learner: Discovering Versatile Neural Solvers for Vehicle Routing Problems** \
    Shaodi Feng, Zhuoyi Lin, <u>Jianan Zhou</u>, Cong Zhang, Jingwen Li, Kuan-Wen Chen, Jayavelu Senthilnath, Yew-Soon Ong

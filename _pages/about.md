@@ -19,7 +19,7 @@ During PhD, my primary research focused on *Neural Combinatorial Optimization (N
 
 More recently, my research has focused on addressing practical CO challenges, including handling complex constraints, building robust and trustworthy CO approaches through human-AI collaboration, and advancing foundation models for combinatorial optimization ([FM4CO](https://github.com/ai4co/awesome-fm4co)).
 
-*Research Keywords: Neural Combinatorial Optimization; Learning to Optimize*
+*Research Keywords: Learning to Optimize; Neural Combinatorial Optimization*
 
 News
 ======

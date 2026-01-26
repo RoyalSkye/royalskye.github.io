@@ -29,7 +29,7 @@ author_profile: true
 - International Conference on Artificial Intelligence and Statistics (AISTATS), 2025-2026
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024-2026
-- European Conference on Computer Vision (ECCV), 2024
+- European Conference on Computer Vision (ECCV), 2024-2026
 
 ## Journal Reviewer
 - Neural Networks
