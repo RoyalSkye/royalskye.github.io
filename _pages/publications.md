@@ -125,5 +125,5 @@ author_profile: true
    Ni Zhang, <u>Jianan Zhou</u>$^\dagger$, YueJiao Gong, Zhiguang Cao
 
 * **Lifelong Learner: Discovering Versatile Neural Solvers for Vehicle Routing Problems** \
-   Shaodi Feng, Zhuoyi Lin, <u>Jianan Zhou</u>, Cong Zhang, Jingwen Li, Kuan-Wen Chen, Jayavelu Senthilnath, Yew-Soon Ong
+   Shaodi Feng, Zhuoyi Lin, <u>Jianan Zhou</u>, Cong Zhang, Jingwen Li, Kuan-Wen Chen, Jayavelu Senthilnath, Yew-Soon Ong \
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2508.11679)
