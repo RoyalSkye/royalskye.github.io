@@ -17,8 +17,6 @@ My long-term research lies at the intersection of machine learning and optimizat
 
 During PhD, my primary research focused on *Neural Combinatorial Optimization (NCO)*, with applications to vehicle routing problems and MILP. More recently, I am interested in Contextual RL, LLMs for optimization-related tasks (e.g., fine-tuning, heuristic search, and modeling), as well as optimization problems arising in compelling application domains (e.g., robotics).
 
-*Research Keywords: Learning to Optimize; Neural Combinatorial Optimization; Reinforcement Learning*
-
 News
 ======
 
