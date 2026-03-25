@@ -16,6 +16,10 @@ author_profile: true
 
 ## Teaching (TA)
 
+AY2025-26 Sem2:
+
+* AI6125 - Multi-Agent System
+
 AY2024-25 Sem2:
 
 * AI6125 - Multi-Agent System

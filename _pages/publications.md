@@ -14,35 +14,40 @@ author_profile: true
 > \* Equal Contribution; $\dagger$ Corresponding Author.
 > 
 
+* **Lifelong Learner: Discovering Versatile Neural Solvers for Vehicle Routing Problems** \
+   Shaodi Feng, Zhuoyi Lin, <u>Jianan Zhou</u>, Cong Zhang, Jingwen Li, Kuan-Wen Chen, Jayavelu Senthilnath, Yew-Soon Ong \
+   *IEEE Transactions on Intelligent Transportation Systems (TITS), 2026* \
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2508.11679)&nbsp;&nbsp;&nbsp;&nbsp;[![IEEE](https://img.shields.io/badge/IEEE-TITS-lightgrey.svg)](https://ieee-itss.org/pub/t-its)
+
 * **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems** \
    Jieyi Bi, Zhiguang Cao, <u>Jianan Zhou</u>, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu \
    *14th International Conference on Learning Representations (ICLR), 2026* 🇧🇷\
-   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Soon-blue.svg)]()
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2602.16012)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/jieyibi/CaR-constraint)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/ICLR-Poster-yellow.svg)](https://iclr.cc/virtual/2026/poster/10007139)
 
-* **Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization** \
+* **Generalizable Heuristic Generation Through LLMs with Meta-Optimization** \
    Yiding Shi, <u>Jianan Zhou</u>$^\dagger$, Wen Song$^\dagger$, Jieyi Bi, Yaoxin Wu, Zhiguang Cao, Jie Zhang \
    *14th International Conference on Learning Representations (ICLR), 2026* 🇧🇷\
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2505.20881)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Soon-blue.svg)]()
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2505.20881)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/yiding-s/MoH)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/ICLR-Poster-yellow.svg)](https://iclr.cc/virtual/2026/poster/10006991)
 
 * **An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems** \
    Ni Zhang, Zhiguang Cao, <u>Jianan Zhou</u>, Cong Zhang, Yew-Soon Ong \
    *14th International Conference on Learning Representations (ICLR), 2026* 🇧🇷\
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2510.16701)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Soon-blue.svg)]()
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2510.16701)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/ZHANG-NI/AFL)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/ICLR-Poster-yellow.svg)](https://iclr.cc/virtual/2026/poster/10010957)
 
 * **DRAGON: LLM-Driven Decomposition and Reconstruction Agents for Large-Scale Combinatorial Optimization** \
    Chen Shengkai, Zhiguang Cao, <u>Jianan Zhou</u>, Yaoxin Wu, Senthilnath Jayavelu, Zhuoyi Lin, Xiaoli Li, Shili Xiang \
    *25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS <font color=red><b>Oral</b></font>), 2026* 🇨🇾\
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2601.06502)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Soon-blue.svg)]()
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2601.06502)&nbsp;&nbsp;&nbsp;&nbsp;[![Oral](https://img.shields.io/badge/AAMAS-Oral-red.svg)](https://cyprusconferences.org/aamas2026)
 
 * **PyVRP$^+$: LLM-Driven Metacognitive Heuristic Evolution for Hybrid Genetic Search in Vehicle Routing Problems** \
    Manuj Malik, <u>Jianan Zhou</u>$^\dagger$, Shashank Reddy Chirra, Zhiguang Cao \
    *25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026* 🇨🇾\
-   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()
+   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/AAMAS-Poster-yellow.svg)](https://cyprusconferences.org/aamas2026)
 
 * **LLMAide: Language-Assisted Neural Solver for Vehicle Routing Problems** \
    Manuj Malik, <u>Jianan Zhou</u>, Yan Jin, Zhiguang Cao \
    *25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026* 🇨🇾\
-   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()
+   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/AAMAS-ExtendedAbstract-white.svg)](https://cyprusconferences.org/aamas2026)
 
 * **Preference-Driven Multi-Objective Combinatorial Optimization with Conditional Computation** \
    Mingfeng Fan, <u>Jianan Zhou</u>$^\dagger$, Yifeng Zhang, Yaoxin Wu$^\dagger$, Jinbiao Chen, Guillaume Adrien Sartoretti \
@@ -116,6 +121,9 @@ author_profile: true
    [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Awesome_List-blue.svg)](https://github.com/ai4co/awesome-fm4co)
 
 * **Double-Blind** \
+   Jingwen Li, Yizhou Liu, Yining Ma, <u>Jianan Zhou</u>, Qinmin Zheng, Zhiguang Cao
+
+* **Double-Blind** \
    Mingfeng Fan, <u>Jianan Zhou</u>$^\dagger$, Jiaqi Cheng, Yifeng Zhang, Jie Zhang, Guillaume Adrien Sartoretti
    
 * **Double-Blind** \
@@ -123,7 +131,3 @@ author_profile: true
 
 * **Double-Blind** \
    Ni Zhang, <u>Jianan Zhou</u>$^\dagger$, YueJiao Gong, Zhiguang Cao
-
-* **Lifelong Learner: Discovering Versatile Neural Solvers for Vehicle Routing Problems** \
-   Shaodi Feng, Zhuoyi Lin, <u>Jianan Zhou</u>, Cong Zhang, Jingwen Li, Kuan-Wen Chen, Jayavelu Senthilnath, Yew-Soon Ong \
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2508.11679)

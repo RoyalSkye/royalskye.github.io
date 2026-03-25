@@ -19,7 +19,7 @@ author_profile: true
 - TinyPapers Track, International Conference on Learning Representations (ICLR), 2023
 
 ## Conference Reviewer
-- Conference on Neural Information Processing Systems (NeurIPS), 2023-2025
+- Conference on Neural Information Processing Systems (NeurIPS), 2023-2026
 - International Conference on Learning Representations (ICLR), 2023-2026
 - International Conference on Machine Learning (ICML), 2024-2026
 - AAAI Conference on Artificial Intelligence (AAAI), 2025-2026
@@ -27,7 +27,7 @@ author_profile: true
 - Conference on Language Modeling (COLM), 2024-2026
 - Learning on Graphs Conference (LoG), 2024-2025
 - International Conference on Artificial Intelligence and Statistics (AISTATS), 2025-2026
-- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025
+- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025-2026
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024-2026
 - European Conference on Computer Vision (ECCV), 2024-2026
 
