@@ -16,6 +16,7 @@ author_profile: true
 
 ## Area Chair
 
+- Position Paper Track, Conference on Neural Information Processing Systems (NeurIPS), 2026
 - TinyPapers Track, International Conference on Learning Representations (ICLR), 2023
 
 ## Conference Reviewer
@@ -43,14 +44,14 @@ author_profile: true
 
 ## Workshop Reviewer
 
-* ML4PS; SyntheticData4ML @ NeurIPS, 2022
-* ME-FoMo; AfricaNLP @ ICLR, 2023
-* SynS & ML @ ICML, 2023
-* ML4PS; SyntheticData4ML; R0-FoMo @ NeurIPS, 2023
-* ME-FoMo; DPFM @ ICLR, 2024
 * ScaleOPT; ML4PS @ NeurIPS, 2025
+* ME-FoMo; DPFM @ ICLR, 2024
+* ML4PS; SyntheticData4ML; R0-FoMo @ NeurIPS, 2023
+* SynS & ML @ ICML, 2023
+* ME-FoMo; AfricaNLP @ ICLR, 2023
+* ML4PS; SyntheticData4ML @ NeurIPS, 2022
 
 ## Volunteer
 
-- ACM Conference on Recommender Systems (RecSys), 2023 @ Singapore
 - International Conference on Learning Representations (ICLR), 2025 @ Singapore
+- ACM Conference on Recommender Systems (RecSys), 2023 @ Singapore

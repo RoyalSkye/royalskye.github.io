@@ -42,7 +42,7 @@ author_profile: true
 * **PyVRP$^+$: LLM-Driven Metacognitive Heuristic Evolution for Hybrid Genetic Search in Vehicle Routing Problems** \
    Manuj Malik, <u>Jianan Zhou</u>$^\dagger$, Shashank Reddy Chirra, Zhiguang Cao \
    *25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026* 🇨🇾\
-   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/AAMAS-Poster-yellow.svg)](https://cyprusconferences.org/aamas2026)
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2604.07872)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/ra-MANUJ-an/pyvrp-code)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/AAMAS-Poster-yellow.svg)](https://cyprusconferences.org/aamas2026)
 
 * **LLMAide: Language-Assisted Neural Solver for Vehicle Routing Problems** \
    Manuj Malik, <u>Jianan Zhou</u>, Yan Jin, Zhiguang Cao \
