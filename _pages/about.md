@@ -15,11 +15,12 @@ Research
 
 My long-term research lies at the intersection of machine learning and optimization, striving to enable automated decision-making with artificial intelligence for complex optimization problems. Central to my research is the field of [*Learning to Optimize*](https://arxiv.org/pdf/1811.06128.pdf), where advanced machine learning techniques are leveraged to learn deep models capable of assisting in, or directly solving, challenging optimization problems.
 
-During PhD, my primary research focused on *Neural Combinatorial Optimization (NCO)*, with applications to vehicle routing problems and MILP. More recently, I am interested in Contextual RL, LLMs for optimization-related tasks (e.g., fine-tuning, heuristic search, and modeling), as well as optimization problems arising in compelling application domains (e.g., robotics).
+During PhD, my primary research focused on *Neural Combinatorial Optimization (NCO)*, with applications to vehicle routing problems and MILP. More recently, I am interested in Contextual RL, LLMs for optimization-related tasks (e.g., fine-tuning, heuristic search, and modeling), as well as optimization problems arising in compelling application domains.
 
 News
 ======
 
+- \[2026-05]: Selected as *Silver Reviewer* for ICML 2026.
 - \[2026-04]: I will serve as *Area Chair* for NeurIPS 2026 (Position Paper Track).
 - \[2025-11]: Successfully defend my PhD thesis.
 - \[2024-07]: Selected as *Best Reviewer* for ICML 2024.

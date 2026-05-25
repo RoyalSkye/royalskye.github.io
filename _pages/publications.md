@@ -25,7 +25,7 @@ author_profile: true
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2602.16012)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/jieyibi/CaR-constraint)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/ICLR-Poster-yellow.svg)](https://iclr.cc/virtual/2026/poster/10007139)
 
 * **Generalizable Heuristic Generation Through LLMs with Meta-Optimization** \
-   Yiding Shi, <u>Jianan Zhou</u>$^\dagger$, Wen Song$^\dagger$, Jieyi Bi, Yaoxin Wu, Zhiguang Cao, Jie Zhang \
+   Yiding Shi, <u>Jianan Zhou</u>$^\dagger$, Wen Song, Jieyi Bi, Yaoxin Wu, Zhiguang Cao, Jie Zhang \
    *14th International Conference on Learning Representations (ICLR), 2026* 🇧🇷\
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2505.20881)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/yiding-s/MoH)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/ICLR-Poster-yellow.svg)](https://iclr.cc/virtual/2026/poster/10006991)
 
@@ -42,12 +42,7 @@ author_profile: true
 * **PyVRP$^+$: LLM-Driven Metacognitive Heuristic Evolution for Hybrid Genetic Search in Vehicle Routing Problems** \
    Manuj Malik, <u>Jianan Zhou</u>$^\dagger$, Shashank Reddy Chirra, Zhiguang Cao \
    *25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026* 🇨🇾\
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2604.07872)&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Code-blue.svg)](https://github.com/ra-MANUJ-an/pyvrp-code)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/AAMAS-Poster-yellow.svg)](https://cyprusconferences.org/aamas2026)
-
-* **LLMAide: Language-Assisted Neural Solver for Vehicle Routing Problems** \
-   Manuj Malik, <u>Jianan Zhou</u>, Yan Jin, Zhiguang Cao \
-   *25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026* 🇨🇾\
-   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/AAMAS-ExtendedAbstract-white.svg)](https://cyprusconferences.org/aamas2026)
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2604.07872)&nbsp;&nbsp;&nbsp;&nbsp;[![Poster](https://img.shields.io/badge/AAMAS-Poster-yellow.svg)](https://cyprusconferences.org/aamas2026)
 
 * **Preference-Driven Multi-Objective Combinatorial Optimization with Conditional Computation** \
    Mingfeng Fan, <u>Jianan Zhou</u>$^\dagger$, Yifeng Zhang, Yaoxin Wu$^\dagger$, Jinbiao Chen, Guillaume Adrien Sartoretti \
@@ -118,16 +113,31 @@ author_profile: true
 
 * **Double-Blind** \
    <u>Jianan Zhou</u>\*, Jieyi Bi\*, Sirui Li\*, Yaoxin Wu, Yingqian Zhang, Jie Zhang, Yining Ma, Cathy Wu \
-   [![PDF](https://img.shields.io/badge/Download-Soon-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Awesome_List-blue.svg)](https://github.com/ai4co/awesome-fm4co)
+   [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Awesome_List-blue.svg)](https://github.com/ai4co/awesome-fm4co)
+
+* **Double-Blind** \
+   <u>Jianan Zhou</u>, Jung-Hoon Cho, Tianyue Zhou, Han Zheng, Jie Zhang, Roy Dong, Yining Ma, Cathy Wu
+   
+* **Learning Scenario Reduction for Two-Stage Robust Optimization with Discrete Uncertainty** \
+   Tianjue Lin, <u>Jianan Zhou</u>$^\dagger$, Jieyi Bi, Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2605.14494)
+
+* **Enhancing Cross-Problem Vehicle Routing via Federated Learning** \
+   Xiangchi Meng\*, <u>Jianan Zhou</u>\*, Jie Gao, Yifan Lu, Yaoxin Wu, Gonglin Yuan, Yaqing Hou \
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2604.10652)
 
 * **Double-Blind** \
    Jingwen Li, Yizhou Liu, Yining Ma, <u>Jianan Zhou</u>, Qinmin Zheng, Zhiguang Cao
 
-* **Double-Blind** \
+* **Learning to Solve Compositional Geometry Routing Problems** \
    Mingfeng Fan, <u>Jianan Zhou</u>$^\dagger$, Jiaqi Cheng, Yifeng Zhang, Jie Zhang, Guillaume Adrien Sartoretti
-   
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2605.18094)
+
 * **Double-Blind** \
-   Jianghan Zhu, Zhiguang Cao, <u>Jianan Zhou</u>$^\dagger$, Ni Zhang, Yaoxin Wu, Zhuoyi Lin
+   Jianghan Zhu, <u>Jianan Zhou</u>$^\dagger$, Fei Liu, Ni Zhang, Yaoxin Wu, Zhuoyi Lin, Zhiguang Cao
 
 * **Double-Blind** \
    Ni Zhang, <u>Jianan Zhou</u>$^\dagger$, YueJiao Gong, Zhiguang Cao
+
+* **Double-Blind** \
+   Xiaoqi Wei, <u>Jianan Zhou</u>$^\dagger$, Yaoxin Wu, Lu Zhang, Xiuqing Yang

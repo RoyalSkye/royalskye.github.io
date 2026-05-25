@@ -7,6 +7,7 @@ author_profile: true
 
 ## Honor and Award
 
+* ICML Silver Reviewer Award, 2026
 * NeurIPS Scholar Award, 2024
 * ICML Best Reviewer Award, 2024
 * NeurIPS Best Reviewer Award, 2023
