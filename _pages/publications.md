@@ -119,7 +119,7 @@ author_profile: true
    <u>Jianan Zhou</u>, Jung-Hoon Cho, Tianyue Zhou, Han Zheng, Jie Zhang, Roy Dong, Yining Ma, Cathy Wu
    
 * **Learning Scenario Reduction for Two-Stage Robust Optimization with Discrete Uncertainty** \
-   Tianjue Lin, <u>Jianan Zhou</u>$^\dagger$, Jieyi Bi, Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang
+   Tianjue Lin, <u>Jianan Zhou</u>$^\dagger$, Jieyi Bi, Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang \
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2605.14494)
 
 * **Enhancing Cross-Problem Vehicle Routing via Federated Learning** \
@@ -130,7 +130,7 @@ author_profile: true
    Jingwen Li, Yizhou Liu, Yining Ma, <u>Jianan Zhou</u>, Qinmin Zheng, Zhiguang Cao
 
 * **Learning to Solve Compositional Geometry Routing Problems** \
-   Mingfeng Fan, <u>Jianan Zhou</u>$^\dagger$, Jiaqi Cheng, Yifeng Zhang, Jie Zhang, Guillaume Adrien Sartoretti
+   Mingfeng Fan, <u>Jianan Zhou</u>$^\dagger$, Jiaqi Cheng, Yifeng Zhang, Jie Zhang, Guillaume Adrien Sartoretti \
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2605.18094)
 
 * **Double-Blind** \
