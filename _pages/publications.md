@@ -115,8 +115,9 @@ author_profile: true
    <u>Jianan Zhou</u>\*, Jieyi Bi\*, Sirui Li\*, Yaoxin Wu, Yingqian Zhang, Jie Zhang, Yining Ma, Cathy Wu \
    [![PDF](https://img.shields.io/badge/Download-Null-brightgreen.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;[![Code](https://img.shields.io/badge/GitHub-Awesome_List-blue.svg)](https://github.com/ai4co/awesome-fm4co)
 
-* **Double-Blind** \
-   <u>Jianan Zhou</u>, Jung-Hoon Cho, Tianyue Zhou, Han Zheng, Jie Zhang, Roy Dong, Yining Ma, Cathy Wu
+* **Task Specialization Fine-Tuning for Contextual Reinforcement Learning** \
+   <u>Jianan Zhou</u>, Jung-Hoon Cho, Tianyue Zhou, Han Zheng, Jie Zhang, Roy Dong, Yining Ma, Cathy Wu \
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2608.17180)
    
 * **Learning Scenario Reduction for Two-Stage Robust Optimization with Discrete Uncertainty** \
    Tianjue Lin, <u>Jianan Zhou</u>$^\dagger$, Jieyi Bi, Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang \
@@ -134,7 +135,13 @@ author_profile: true
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2605.18094)
 
 * **Double-Blind** \
+   Rui Zhang, <u>Jianan Zhou</u>$^\dagger$, Wen Song, Yaoxin Wu, Yining Ma, Jie Zhang
+
+* **Double-Blind** \
    Jianghan Zhu, <u>Jianan Zhou</u>$^\dagger$, Fei Liu, Ni Zhang, Yaoxin Wu, Zhuoyi Lin, Zhiguang Cao
+
+* **Double-Blind** \
+   Ni Zhang, Haofeng Yuan, <u>Jianan Zhou</u>$^\dagger$, Shiji Song, Zhiguang Cao
 
 * **Double-Blind** \
    Ni Zhang, <u>Jianan Zhou</u>$^\dagger$, YueJiao Gong, Zhiguang Cao

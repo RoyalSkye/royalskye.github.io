@@ -21,14 +21,14 @@ author_profile: true
 
 ## Conference Reviewer
 - Conference on Neural Information Processing Systems (NeurIPS), 2023-2026
-- International Conference on Learning Representations (ICLR), 2023-2026
+- International Conference on Learning Representations (ICLR), 2023-2027
 - International Conference on Machine Learning (ICML), 2024-2026
-- AAAI Conference on Artificial Intelligence (AAAI), 2025-2026
+- AAAI Conference on Artificial Intelligence (AAAI), 2025-2027
 - International Joint Conferences on Artificial Intelligence (IJCAI), 2024-2026
 - Conference on Language Modeling (COLM), 2024-2026
-- Learning on Graphs Conference (LoG), 2024-2025
+- Learning on Graphs Conference (LoG), 2024-2026
 - International Conference on Artificial Intelligence and Statistics (AISTATS), 2025-2026
-- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025-2026
+- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025-2027
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024-2026
 - European Conference on Computer Vision (ECCV), 2024-2026
 
@@ -37,6 +37,7 @@ author_profile: true
 - Evolutionary Intelligence
 - Computers and Operations Research
 - Journal of Artificial Intelligence Research
+- Transactions on Machine Learning Research
 - IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Evolutionary Computation
 - IEEE Transactions on Neural Network and Learning Systems
