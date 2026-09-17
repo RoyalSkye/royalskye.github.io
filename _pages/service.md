@@ -16,12 +16,13 @@ author_profile: true
 
 ## Area Chair
 
+- International Conference on Learning Representations (ICLR), 2027
 - Position Paper Track, Conference on Neural Information Processing Systems (NeurIPS), 2026
 - TinyPapers Track, International Conference on Learning Representations (ICLR), 2023
 
 ## Conference Reviewer
 - Conference on Neural Information Processing Systems (NeurIPS), 2023-2026
-- International Conference on Learning Representations (ICLR), 2023-2027
+- International Conference on Learning Representations (ICLR), 2023-2026
 - International Conference on Machine Learning (ICML), 2024-2026
 - AAAI Conference on Artificial Intelligence (AAAI), 2025-2027
 - International Joint Conferences on Artificial Intelligence (IJCAI), 2024-2026

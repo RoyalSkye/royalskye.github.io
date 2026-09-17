@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a Postdoctoral Fellow in the College of Computing and Data Science at Nanyang Technological University ([CCDS@NTU](https://www.ntu.edu.sg/computing)), where I work with [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj). Previously, I obtained my Ph.D. in Computer Science at NTU in 2025, where I’m fortunate to be advised by Prof. Jie Zhang and Dr. Chi Xu. I received my B.Eng. in Software Engineering from Northeastern University (NEU) in 2019, and my M.Sc. in Artificial Intelligence from NTU in 2021.
+Hi, I am a Research Fellow in the College of Computing and Data Science at Nanyang Technological University ([CCDS@NTU](https://www.ntu.edu.sg/computing)), where I work with [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj). Previously, I obtained my Ph.D. in Computer Science at NTU in 2025, where I’m fortunate to be advised by Prof. Jie Zhang and Dr. Chi Xu. I received my B.Eng. in Software Engineering from Northeastern University (NEU) in 2019, and my M.Sc. in Artificial Intelligence from NTU in 2021.
 
 Research
 ======
@@ -20,6 +20,7 @@ During PhD, my primary research focused on *Neural Combinatorial Optimization (N
 News
 ======
 
+- \[2026-09]: I will serve as *Area Chair* for ICLR 2027.
 - \[2026-05]: Selected as *Silver Reviewer* for ICML 2026.
 - \[2026-04]: I will serve as *Area Chair* for NeurIPS 2026 (Position Paper Track).
 - \[2025-11]: Successfully defend my PhD thesis.
