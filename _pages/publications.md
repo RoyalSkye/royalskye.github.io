@@ -16,12 +16,12 @@ author_profile: true
 
 * **Learning Scenario Reduction for Two-Stage Robust Optimization with Discrete Uncertainty** \
    Tianjue Lin, <u>Jianan Zhou</u>$^\dagger$, Jieyi Bi, Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang \
-   *40th Conference on Neural Information Processing Systems (NeurIPS), 2025* 🇦🇺\
+   *40th Conference on Neural Information Processing Systems (NeurIPS), 2026* 🇦🇺\
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2605.14494)
 
 * **Learning to Solve Compositional Geometry Routing Problems** \
    Mingfeng Fan, <u>Jianan Zhou</u>$^\dagger$, Jiaqi Cheng, Yifeng Zhang, Jie Zhang, Guillaume Adrien Sartoretti \
-   *40th Conference on Neural Information Processing Systems (NeurIPS), 2025* 🇦🇺\
+   *40th Conference on Neural Information Processing Systems (NeurIPS), 2026* 🇦🇺\
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2605.18094)
 
 * **Lifelong Learner: Discovering Versatile Neural Solvers for Vehicle Routing Problems** \
