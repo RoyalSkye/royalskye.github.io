@@ -14,6 +14,16 @@ author_profile: true
 > \* Equal Contribution; $\dagger$ Corresponding Author.
 > 
 
+* **Learning Scenario Reduction for Two-Stage Robust Optimization with Discrete Uncertainty** \
+   Tianjue Lin, <u>Jianan Zhou</u>$^\dagger$, Jieyi Bi, Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang \
+   *40th Conference on Neural Information Processing Systems (NeurIPS), 2025* 🇦🇺\
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2605.14494)
+
+* **Learning to Solve Compositional Geometry Routing Problems** \
+   Mingfeng Fan, <u>Jianan Zhou</u>$^\dagger$, Jiaqi Cheng, Yifeng Zhang, Jie Zhang, Guillaume Adrien Sartoretti \
+   *40th Conference on Neural Information Processing Systems (NeurIPS), 2025* 🇦🇺\
+   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2605.18094)
+
 * **Lifelong Learner: Discovering Versatile Neural Solvers for Vehicle Routing Problems** \
    Shaodi Feng, Zhuoyi Lin, <u>Jianan Zhou</u>, Cong Zhang, Jingwen Li, Kuan-Wen Chen, Jayavelu Senthilnath, Yew-Soon Ong \
    *IEEE Transactions on Intelligent Transportation Systems (TITS), 2026* \
@@ -118,33 +128,7 @@ author_profile: true
 * **Task Specialization Fine-Tuning for Contextual Reinforcement Learning** \
    <u>Jianan Zhou</u>, Jung-Hoon Cho, Tianyue Zhou, Han Zheng, Jie Zhang, Roy Dong, Yining Ma, Cathy Wu \
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2608.17180)
-   
-* **Learning Scenario Reduction for Two-Stage Robust Optimization with Discrete Uncertainty** \
-   Tianjue Lin, <u>Jianan Zhou</u>$^\dagger$, Jieyi Bi, Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang \
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2605.14494)
 
 * **Enhancing Cross-Problem Vehicle Routing via Federated Learning** \
    Xiangchi Meng\*, <u>Jianan Zhou</u>\*, Jie Gao, Yifan Lu, Yaoxin Wu, Gonglin Yuan, Yaqing Hou \
    [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2604.10652)
-
-* **Double-Blind** \
-   Jingwen Li, Yizhou Liu, Yining Ma, <u>Jianan Zhou</u>, Qinmin Zheng, Zhiguang Cao
-
-* **Learning to Solve Compositional Geometry Routing Problems** \
-   Mingfeng Fan, <u>Jianan Zhou</u>$^\dagger$, Jiaqi Cheng, Yifeng Zhang, Jie Zhang, Guillaume Adrien Sartoretti \
-   [![PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://arxiv.org/pdf/2605.18094)
-
-* **Double-Blind** \
-   Rui Zhang, <u>Jianan Zhou</u>$^\dagger$, Wen Song, Yaoxin Wu, Yining Ma, Jie Zhang
-
-* **Double-Blind** \
-   Jianghan Zhu, <u>Jianan Zhou</u>$^\dagger$, Fei Liu, Ni Zhang, Yaoxin Wu, Zhuoyi Lin, Zhiguang Cao
-
-* **Double-Blind** \
-   Ni Zhang, Haofeng Yuan, <u>Jianan Zhou</u>$^\dagger$, Shiji Song, Zhiguang Cao
-
-* **Double-Blind** \
-   Ni Zhang, <u>Jianan Zhou</u>$^\dagger$, YueJiao Gong, Zhiguang Cao
-
-* **Double-Blind** \
-   Xiaoqi Wei, <u>Jianan Zhou</u>$^\dagger$, Yaoxin Wu, Lu Zhang, Xiuqing Yang
