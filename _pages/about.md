@@ -20,7 +20,7 @@ During PhD, my primary research focused on *Neural Combinatorial Optimization (N
 News
 ======
 
-- \[2026-09]: I will serve as *Area Chair* for ICLR 2027.
+- \[2026-10]: Selected as *Top Area Chair* for NeurIPS 2026.
 - \[2026-05]: Selected as *Silver Reviewer* for ICML 2026.
 - \[2026-04]: I will serve as *Area Chair* for NeurIPS 2026 (Position Paper Track).
 - \[2025-11]: Successfully defend my PhD thesis.

@@ -7,6 +7,7 @@ author_profile: true
 
 ## Honor and Award
 
+* NeurIPS Top Area Chair Award, 2026
 * ICML Silver Reviewer Award, 2026
 * NeurIPS Scholar Award, 2024
 * ICML Best Reviewer Award, 2024
